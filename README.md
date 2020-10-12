@@ -24,4 +24,4 @@ Below the Zoom connection coordinates:
 Name: KDI - FHIR project room\
 ID: 821 9051 4741 \
 PWD: 2FFZGb\
-Link: https://us02web.zoom.us/j/82190514741?pwd=MUhiTW5oSXdsa0dpKzhKVE5pMHMxUT09 \
+Link: https://us02web.zoom.us/j/82190514741?pwd=MUhiTW5oSXdsa0dpKzhKVE5pMHMxUT09

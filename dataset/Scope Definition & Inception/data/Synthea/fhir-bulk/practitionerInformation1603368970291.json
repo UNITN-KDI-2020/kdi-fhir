@@ -1,0 +1,168 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:77c9febb-097a-35b6-953a-a4640f25a1b5",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "77c9febb-097a-35b6-953a-a4640f25a1b5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 44
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "9999999469"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Schiller186",
+            "given": [
+              "Alta896"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Alta896.Schiller186@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "115 LINCOLN STREET"
+            ],
+            "city": "FRAMINGHAM",
+            "state": "MA",
+            "postalCode": "01701",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:49579bf5-461c-3611-89d0-18ceb62f78b6",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "49579bf5-461c-3611-89d0-18ceb62f78b6",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 74
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "9999913729"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Hudson301",
+            "given": [
+              "Mika226"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Mika226.Hudson301@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "109 ANDREW AVE"
+            ],
+            "city": "WAYLAND",
+            "state": "MA",
+            "postalCode": "01778-3027",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:517270d2-2b78-37d0-b20f-548b33201f68",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "517270d2-2b78-37d0-b20f-548b33201f68",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "9999906559"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Wuckert783",
+            "given": [
+              "Edmundo94"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Edmundo94.Wuckert783@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9 HOPE AVENUE"
+            ],
+            "city": "WALTHAM",
+            "state": "MA",
+            "postalCode": "2453",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    }
+  ]
+}

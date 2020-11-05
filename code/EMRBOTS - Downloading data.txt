@@ -1,0 +1,1 @@
+Go to the EMRbots website (http://www.emrbots.org/download-artificial-emr-databases.html), register and download the files. For this project was used the one with the biggest amount of patients ("100,000-patient").

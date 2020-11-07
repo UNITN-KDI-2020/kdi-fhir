@@ -7,5 +7,5 @@ Phase 1: Project report - Scope and Inception
 
 Added 6/11/2020  
 Phase 2: Project report presentation  
-Phase 2: Project report - Informal Modelling
+Phase 2: Project report - Informal Modelling  
 Phase 2: Initial EER Model

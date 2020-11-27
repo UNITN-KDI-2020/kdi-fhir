@@ -10,7 +10,7 @@ Phase 2: Project report presentation
 Phase 2: Project report - Informal Modelling  
 Phase 2: Initial EER Model
 
-Added 27/11/2020
-Phase 3: Project report presentation
-Phase 3: Project report - Formal Modelling
-Phase 3: Refined EER Model / Ontology visualisation
+Added 27/11/2020  
+Phase 3: Project report presentation  
+Phase 3: Project report - Formal Modelling  
+Phase 3: Refined EER Model / Ontology visualisation  

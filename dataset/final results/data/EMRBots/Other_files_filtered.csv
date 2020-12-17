@@ -1,0 +1,51 @@
+"﻿PatientID","PrimaryDiagnosisCode","PrimaryDiagnosisDescription","PatientGender","PatientDateOfBirth","PatientRace","PatientMaritalStatus","PatientLanguage","PatientPopulationPercentageBelowPoverty"
+"A48FF6B1-F92A-40A3-BB02-C29195FBDDBC","H74.11","Adhesive right middle ear disease","Female","1961-04-14 05:08:57.297","Asian","Single","English",97.23
+"9BA8E802-CAEE-4818-A353-36F322771F37","F31.6","Bipolar disorder, current episode mixed","Male","1955-02-03 01:15:59.250","Asian","Married","Unknown",12.07
+"8A66823A-A549-4384-93EE-A69F3B5C7B89","I25.11","Atherosclerotic heart disease of native coronary artery with angina pectoris","Male","1972-06-04 16:39:25.733","White","Married","English",19.09
+"3C6AF15F-3299-4681-A200-34F2756FB979","O99.513","Diseases of the respiratory system complicating pregnancy, third trimester","Male","1922-02-23 16:44:31.963","Unknown","Married","Spanish",8.95
+"9CD78ADF-39CC-42A1-9611-05DF199AD33E","G70.81","Lambert-Eaton syndrome in disease classified elsewhere","Female","1963-08-13 00:23:39.163","African American","Single","Icelandic",94.22
+"5EEFC33F-ACF4-42DF-8759-4C334EB26CEF","I08.1","Rheumatic disorders of both mitral and tricuspid valves","Male","1926-11-14 04:08:06.930","Asian","Unknown","English",11.76
+"5B74F6F3-A3A1-4FEE-A930-67FF217A3537","B95","Streptococcus, Staphylococcus, and Enterococcus as the cause of diseases classified elsewhere","Female","1941-08-19 23:40:59.177","White","Single","Spanish",18.52
+"49A7FEA0-A991-44ED-8A49-2712F14CC5DC","N25.0","Renal osteodystrophy","Female","1969-07-27 19:22:34.023","White","Divorced","Spanish",16.29
+"165AD187-70D7-4435-904B-B190EDAB5E86","C72.42","Malignant neoplasm of left acoustic nerve","Male","1950-05-05 02:36:18.920","White","Single","Icelandic",6.45
+"1EE780C8-8042-40D3-986F-5791D5E26B0A","C71.7","Malignant neoplasm of brain stem","Male","1965-05-17 14:27:38.623","White","Widowed","Icelandic",13.41
+"E7A90EF8-8FD5-4F15-9BE0-D65BEB94D60E","D13.6","Benign neoplasm of pancreas","Female","1953-05-21 09:40:37.650","White","Separated","Unknown",13.29
+"A279A38B-501F-44F9-BA13-E45C152C94CD","M02.3","Reiter's disease","Female","1950-10-12 20:08:03.727","Asian","Married","Icelandic",19.53
+"D954A0F3-59DF-46A2-814D-8AEF8A13B7EC","D40.1","Neoplasm of uncertain behavior of testis","Male","1974-10-08 10:40:38.870","Asian","Married","English",14.33
+"D4EB5EF4-AA94-4798-815E-D99D5BAA8E09","M06.361","Rheumatoid nodule, right knee","Male","1966-08-20 14:52:17.590","African American","Single","English",10.14
+"784CCDAD-9026-4CA0-B8D7-C8706DFC04DA","M06.311","Rheumatoid nodule, right shoulder","Male","1952-04-02 14:26:11.490","White","Married","English",18.69
+"EF2E3C06-AC3D-492C-B0AE-1145CCCF5B6D","E11.32","Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy","Female","1936-11-17 12:28:26.330","Asian","Married","Unknown",16.38
+"024D1279-5267-413C-B74E-909FF043135A","G05.4","Myelitis in diseases classified elsewhere","Female","1946-11-01 12:30:07.967","Asian","Single","English",18.59
+"FED864CF-19B6-492B-B4E2-ED23D63C4D4E","R94.2","Abnormal results of pulmonary function studies","Female","1954-12-22 10:14:32.477","White","Single","Icelandic",11.04
+"432B0287-342B-4FE2-B51C-D84915EF9D2B","K91","Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified","Male","1926-04-01 09:49:35.440","White","Divorced","English",19.33
+"4A11EE71-E992-48BB-9816-B1FA9FA9FEB2","D39.11","Neoplasm of uncertain behavior of right ovary","Male","1961-09-08 12:56:36.657","Asian","Unknown","English",94.95
+"FD997D52-DC94-4462-B853-A31FA633ECBF","E08.621","Diabetes mellitus due to underlying condition with foot ulcer","Male","1931-10-30 05:52:22.460","White","Divorced","English",4.36
+"4AA91D12-6BAC-4F10-9021-BA2E6DA05D81","E08.65","Diabetes mellitus due to underlying condition with hyperglycemia","Female","1957-01-06 20:06:57.943","African American","Divorced","English",16.14
+"8D2BD8A0-E902-44FE-A0A2-9E51F527BC7B","D17.22","Benign lipomatous neoplasm of skin and subcutaneous tissue of left arm","Male","1921-11-07 21:58:40.120","African American","Single","Spanish",1.78
+"275958B8-CEC4-4C2D-AFEB-1379D028EC22","M01.X11","Direct infection of right shoulder in infectious and parasitic diseases classified elsewhere","Male","1960-11-27 02:20:10.013","African American","Unknown","English",18.06
+"2B8BC806-49CC-4E61-8900-9E96A6C28FD2","C38","Malignant neoplasm of heart, mediastinum and pleura","Male","1932-07-06 06:10:06.677","White","Single","English",16.58
+"2B4847D1-C660-4CA6-B44B-E7F47B49D43B","O26.832","Pregnancy related renal disease, second trimester","Male","1959-08-17 00:19:06.833","White","Married","English",19
+"D693D2B6-EBF5-4373-BF17-36CDD6BB809D","F14.182","Cocaine abuse with cocaine-induced sleep disorder","Female","1956-04-25 04:49:18.467","White","Divorced","English",11.02
+"CCCB8323-B95E-44D8-BCA6-49060B5E3888","O99.43","Diseases of the circulatory system complicating the puerperium","Female","1921-11-03 04:52:22.383","Unknown","Married","English",12.49
+"938F182F-B82B-41A9-93F4-0BC7A6146BA8","B96.82","Vibrio vulnificus as the cause of diseases classified elsewhere","Female","1941-05-30 20:29:25.240","White","Unknown","English",19.02
+"170C177B-0834-4FFB-B973-81D0FB088EDC","M10.31","Gout due to renal impairment, shoulder","Female","1958-12-13 13:59:52.457","Unknown","Single","English",18.41
+"26717D25-A939-4656-9C1C-27DDA08DD3CC","F90","Attention-deficit hyperactivity disorders","Female","1930-07-24 01:17:48.137","Asian","Divorced","English",18.43
+"08A61487-3445-4EF5-BDCC-1D317007F488","E10.52","Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene","Male","1966-01-29 22:46:44.000","African American","Married","English",12.81
+"EE4D7755-F9DC-4985-B691-9F119B58E855","D44.2","Neoplasm of uncertain behavior of parathyroid gland","Female","1950-01-15 20:07:40.303","Unknown","Single","English",17.62
+"697FC399-5E5D-4892-9557-E609496D43B5","Z13.71","Encounter for nonprocreative screening for genetic disease carrier status","Female","1943-05-03 00:25:47.683","Unknown","Married","English",13.12
+"828285DA-DDF3-42DD-AB9F-25B1886740C2","I25.760","Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina","Male","1957-04-23 06:48:37.870","Asian","Married","Spanish",12.88
+"48D1D8FE-80C2-4711-85B8-7B11BC6415D0","Z48.3","Aftercare following surgery for neoplasm","Female","1969-04-06 16:32:54.987","African American","Married","Spanish",19.05
+"8FC2562C-9B36-422C-AAA3-F3611728B341","K57.1","Diverticular disease of small intestine without perforation or abscess","Male","1950-07-20 22:41:20.460","White","Single","Spanish",16.72
+"63F3485C-D4BE-4700-8470-5E9109F89039","E10.41","Type 1 diabetes mellitus with diabetic mononeuropathy","Male","1960-02-28 20:03:14.783","White","Single","English",13.11
+"DBC3B9E4-C13C-4023-8014-9A6422F4701A","E25.0","Congenital adrenogenital disorders associated with enzyme deficiency","Female","1968-04-07 20:21:03.580","White","Single","Spanish",19.81
+"2F8B2EF1-F8AE-4C0A-8D14-0A7E020B60B7","E11.35","Type 2 diabetes mellitus with proliferative diabetic retinopathy","Male","1960-09-10 10:05:50.843","White","Married","English",15.09
+"D6AF462E-27C7-4839-A5E7-00B419F4646A","D16.8","Benign neoplasm of pelvic bones, sacrum and coccyx","Male","1978-11-12 02:23:40.410","White","Married","English",8.36
+"3BA7D5EB-883B-48E4-AE9E-8DD2E4E396FC","M05.221","Rheumatoid vasculitis with rheumatoid arthritis of right elbow","Female","1973-09-07 21:29:39.743","White","Married","Icelandic",16.2
+"EE72D100-4EDB-43B9-8CFA-8803A9C509DB","K21.9","Gastro-esophageal reflux disease without esophagitis","Female","1938-08-01 18:53:42.727","African American","Single","English",11.68
+"9443086A-CC86-4195-9DB6-09CC5ABF5885","D13.0","Benign neoplasm of esophagus","Female","1951-07-28 08:10:41.990","Asian","Separated","Spanish",14.01
+"4293F68F-BFD0-407A-9CFA-0C3D71A173A2","M50.03","Cervical disc disorder with myelopathy, cervicothoracic region","Male","1929-08-10 03:58:30.577","African American","Single","English",18.71
+"62CE023F-6B28-47F6-98C7-A9BE7484261C","Z13.71","Encounter for nonprocreative screening for genetic disease carrier status","Male","1951-02-06 12:12:26.603","Unknown","Separated","English",10.25
+"5F163C43-AEEB-454B-86B1-81271E2CBDE3","E08.621","Diabetes mellitus due to underlying condition with foot ulcer","Male","1954-11-08 21:51:42.223","Asian","Married","Spanish",12.69
+"068898A2-193E-48E0-8404-E329870E4518","I97.810","Intraoperative cerebrovascular infarction during cardiac surgery","Male","1946-11-21 10:18:32.197","White","Single","Icelandic",15.88
+"1168E553-A2B0-4F85-803C-5652C5B7EF09","J43.0","Unilateral pulmonary emphysema [MacLeod's syndrome]","Female","1968-12-29 16:10:39.520","Unknown","Married","English",15.46
+"514D242E-B467-4561-B4B2-946CCEC42CEE","A31.0","Pulmonary mycobacterial infection","Female","1961-05-06 08:03:34.597","African American","Divorced","English",18.9

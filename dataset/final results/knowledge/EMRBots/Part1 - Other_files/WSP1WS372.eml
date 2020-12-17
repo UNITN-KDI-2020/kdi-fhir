@@ -1,0 +1,952 @@
+[
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1961-04-14 05:08:57.297"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["A48FF6B1-F92A-40A3-BB02-C29195FBDDBC"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Adhesive right middle ear disease"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1926-11-14 04:08:06.930"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["5EEFC33F-ACF4-42DF-8759-4C334EB26CEF"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Rheumatic disorders of both mitral and tricuspid valves"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1969-04-06 16:32:54.987"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["48D1D8FE-80C2-4711-85B8-7B11BC6415D0"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Aftercare following surgery for neoplasm"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1960-09-10 10:05:50.843"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["2F8B2EF1-F8AE-4C0A-8D14-0A7E020B60B7"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Type 2 diabetes mellitus with proliferative diabetic retinopathy"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1930-07-24 01:17:48.137"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["26717D25-A939-4656-9C1C-27DDA08DD3CC"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Attention-deficit hyperactivity disorders"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1966-01-29 22:46:44.000"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["08A61487-3445-4EF5-BDCC-1D317007F488"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1974-10-08 10:40:38.870"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["D954A0F3-59DF-46A2-814D-8AEF8A13B7EC"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Neoplasm of uncertain behavior of testis"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1950-01-15 20:07:40.303"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["EE4D7755-F9DC-4985-B691-9F119B58E855"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Neoplasm of uncertain behavior of parathyroid gland"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Unknown"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1936-11-17 12:28:26.330"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["EF2E3C06-AC3D-492C-B0AE-1145CCCF5B6D"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1961-05-06 08:03:34.597"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["514D242E-B467-4561-B4B2-946CCEC42CEE"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Pulmonary mycobacterial infection"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Unknown"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1955-02-03 01:15:59.250"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["9BA8E802-CAEE-4818-A353-36F322771F37"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Bipolar disorder, current episode mixed"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1943-05-03 00:25:47.683"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["697FC399-5E5D-4892-9557-E609496D43B5"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Encounter for nonprocreative screening for genetic disease carrier status"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1966-08-20 14:52:17.590"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["D4EB5EF4-AA94-4798-815E-D99D5BAA8E09"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Rheumatoid nodule, right knee"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1954-12-22 10:14:32.477"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["FED864CF-19B6-492B-B4E2-ED23D63C4D4E"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Abnormal results of pulmonary function studies"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1973-09-07 21:29:39.743"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["3BA7D5EB-883B-48E4-AE9E-8DD2E4E396FC"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Rheumatoid vasculitis with rheumatoid arthritis of right elbow"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1968-12-29 16:10:39.520"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["1168E553-A2B0-4F85-803C-5652C5B7EF09"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Unilateral pulmonary emphysema [MacLeod's syndrome]"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1968-04-07 20:21:03.580"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["DBC3B9E4-C13C-4023-8014-9A6422F4701A"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Congenital adrenogenital disorders associated with enzyme deficiency"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1922-02-23 16:44:31.963"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["3C6AF15F-3299-4681-A200-34F2756FB979"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Diseases of the respiratory system complicating pregnancy, third trimester"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1941-08-19 23:40:59.177"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["5B74F6F3-A3A1-4FEE-A930-67FF217A3537"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Streptococcus, Staphylococcus, and Enterococcus as the cause of diseases classified elsewhere"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1921-11-03 04:52:22.383"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["CCCB8323-B95E-44D8-BCA6-49060B5E3888"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Diseases of the circulatory system complicating the puerperium"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1961-09-08 12:56:36.657"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["4A11EE71-E992-48BB-9816-B1FA9FA9FEB2"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Neoplasm of uncertain behavior of right ovary"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1952-04-02 14:26:11.490"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["784CCDAD-9026-4CA0-B8D7-C8706DFC04DA"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Rheumatoid nodule, right shoulder"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1950-07-20 22:41:20.460"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["8FC2562C-9B36-422C-AAA3-F3611728B341"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Diverticular disease of small intestine without perforation or abscess"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1951-07-28 08:10:41.990"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["9443086A-CC86-4195-9DB6-09CC5ABF5885"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Benign neoplasm of esophagus"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1954-11-08 21:51:42.223"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["5F163C43-AEEB-454B-86B1-81271E2CBDE3"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Diabetes mellitus due to underlying condition with foot ulcer"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1932-07-06 06:10:06.677"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["2B8BC806-49CC-4E61-8900-9E96A6C28FD2"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Malignant neoplasm of heart, mediastinum and pleura"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1965-05-17 14:27:38.623"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["1EE780C8-8042-40D3-986F-5791D5E26B0A"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Malignant neoplasm of brain stem"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1926-04-01 09:49:35.440"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["432B0287-342B-4FE2-B51C-D84915EF9D2B"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1946-11-21 10:18:32.197"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["068898A2-193E-48E0-8404-E329870E4518"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Intraoperative cerebrovascular infarction during cardiac surgery"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1959-08-17 00:19:06.833"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["2B4847D1-C660-4CA6-B44B-E7F47B49D43B"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Pregnancy related renal disease, second trimester"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Unknown"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1953-05-21 09:40:37.650"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["E7A90EF8-8FD5-4F15-9BE0-D65BEB94D60E"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Benign neoplasm of pancreas"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1963-08-13 00:23:39.163"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["9CD78ADF-39CC-42A1-9611-05DF199AD33E"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Lambert-Eaton syndrome in disease classified elsewhere"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1972-06-04 16:39:25.733"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["8A66823A-A549-4384-93EE-A69F3B5C7B89"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Atherosclerotic heart disease of native coronary artery with angina pectoris"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1957-01-06 20:06:57.943"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["4AA91D12-6BAC-4F10-9021-BA2E6DA05D81"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Diabetes mellitus due to underlying condition with hyperglycemia"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1950-05-05 02:36:18.920"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["165AD187-70D7-4435-904B-B190EDAB5E86"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Malignant neoplasm of left acoustic nerve"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1969-07-27 19:22:34.023"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["49A7FEA0-A991-44ED-8A49-2712F14CC5DC"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Renal osteodystrophy"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1960-11-27 02:20:10.013"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["275958B8-CEC4-4C2D-AFEB-1379D028EC22"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Direct infection of right shoulder in infectious and parasitic diseases classified elsewhere"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1921-11-07 21:58:40.120"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["8D2BD8A0-E902-44FE-A0A2-9E51F527BC7B"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Benign lipomatous neoplasm of skin and subcutaneous tissue of left arm"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1931-10-30 05:52:22.460"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["FD997D52-DC94-4462-B853-A31FA633ECBF"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Diabetes mellitus due to underlying condition with foot ulcer"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1941-05-30 20:29:25.240"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["938F182F-B82B-41A9-93F4-0BC7A6146BA8"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Vibrio vulnificus as the cause of diseases classified elsewhere"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1938-08-01 18:53:42.727"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["EE72D100-4EDB-43B9-8CFA-8803A9C509DB"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Gastro-esophageal reflux disease without esophagitis"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Spanish"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1957-04-23 06:48:37.870"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["828285DA-DDF3-42DD-AB9F-25B1886740C2"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1958-12-13 13:59:52.457"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["170C177B-0834-4FFB-B973-81D0FB088EDC"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Gout due to renal impairment, shoulder"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1951-02-06 12:12:26.603"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["62CE023F-6B28-47F6-98C7-A9BE7484261C"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Encounter for nonprocreative screening for genetic disease carrier status"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1956-04-25 04:49:18.467"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["D693D2B6-EBF5-4373-BF17-36CDD6BB809D"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Cocaine abuse with cocaine-induced sleep disorder"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1929-08-10 03:58:30.577"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["4293F68F-BFD0-407A-9CFA-0C3D71A173A2"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Cervical disc disorder with myelopathy, cervicothoracic region"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1960-02-28 20:03:14.783"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["63F3485C-D4BE-4700-8470-5E9109F89039"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Type 1 diabetes mellitus with diabetic mononeuropathy"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1978-11-12 02:23:40.410"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6496\",\"kind\":\"CONCEPT\",\"probability\":0.6000000238418579,\"name\":{\"strings\":{\"eng\":[\"male\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"male\"}}"],
+                    "39085": ["D6AF462E-27C7-4839-A5E7-00B419F4646A"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Benign neoplasm of pelvic bones, sacrum and coccyx"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["English"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1946-11-01 12:30:07.967"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["024D1279-5267-413C-B74E-909FF043135A"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Myelitis in diseases classified elsewhere"]
+        },
+        "type": 77328
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+        "attributes": {
+            "765": [{
+                "provenance": "StarLinker import @Tue Dec 15 22:00:05 GMT 2020",
+                "attributes": {
+                    "33764": ["Icelandic"],
+                    "34123": ["http://www.emrbots.org"],
+                    "81257": ["1950-10-12 20:08:03.727"],
+                    "35781": ["EMRBots"],
+                    "27646": ["{\"id\":\"6494\",\"kind\":\"CONCEPT\",\"probability\":0.8181818127632141,\"name\":{\"strings\":{\"eng\":[\"female\"]}},\"description\":{\"strings\":{\"eng\":[\"an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"female\"}}"],
+                    "39085": ["A279A38B-501F-44F9-BA13-E45C152C94CD"]
+                },
+                "type": 55936
+            }],
+            "74023": ["Reiter's disease"]
+        },
+        "type": 77328
+    }
+]

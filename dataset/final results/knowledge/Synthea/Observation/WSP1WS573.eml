@@ -1,0 +1,23 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 19:38:13 GMT 2020",
+    "attributes": {
+        "146": ["182.6"],
+        "31829": ["vital-signs"],
+        "80737": [1304872425000],
+        "31507": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:38:13 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:38:13 GMT 2020",
+                "attributes": {"39085": ["29288e5d-3203-533a-3558-537ac6b1d4ca"]},
+                "type": 55936
+            }
+        ],
+        "72050": ["cm"],
+        "39085": ["64b054ba-96b5-0a1f-3e99-1a6f2bc95976"]
+    },
+    "type": 31728
+}]

@@ -1,0 +1,31 @@
+digraph { 
+ node [ fontname="DejaVu Sans" ] ; 
+	node0 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node2 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:has_analysis_GID-31507_Type-55936</font> > ] ;
+	node0 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:has_analysis_GID-31507_Type-55936</font> > ] ;
+	node4 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node5 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node2 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node6 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node2 -> node6 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node7 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+# f9626c76ba46d4e2a8d3b742cce3aab08b1 node0
+node0 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>f9626c76ba46d4e2a8d3b742cce3aab08b1</B></td></tr><tr><td href='f9626c76ba46d4e2a8d3b742cce3aab08b1' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>f9626c76ba46d4e2a8d3b742cce3aab08b1</font></td></tr><tr><td align='left'>ns1:has_date_GID-80737_Type-31728</td><td align='left'>&quot;2011-05-08T16:33:45+02:00&quot;^^xsd:dateTime</td></tr><tr><td align='left'>ns1:has_identifier_GID-39085_Type-1</td><td align='left'>&quot;64b054ba-96b5-0a1f-3e99-1a6f2bc95976&quot;^^xsd:string</td></tr><tr><td align='left'>ns1:has_kind_GID-31829_Type-31728</td><td align='left'>&quot;vital-signs&quot;^^xsd:string</td></tr><tr><td align='left'>ns1:has_measure_GID-146_Type-31728</td><td align='left'>&quot;182.6&quot;^^xsd:float</td></tr><tr><td align='left'>ns1:has_unit_of_measurement_GID-72050_Type-31728</td><td align='left'>&quot;cm&quot;^^xsd:string</td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#ComplexType node1
+node1 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>ComplexType</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#ComplexType' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#ComplexType</font></td></tr></table> > ] 
+# f9626c76ba46d4e2a8d3b742cce3aab08b3 node2
+node2 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>f9626c76ba46d4e2a8d3b742cce3aab08b3</B></td></tr><tr><td href='f9626c76ba46d4e2a8d3b742cce3aab08b3' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>f9626c76ba46d4e2a8d3b742cce3aab08b3</font></td></tr><tr><td align='left'>ns1:has_identifier_GID-39085_Type-55936</td><td align='left'>&quot;Patient&quot;^^xsd:string</td></tr></table> > ] 
+# http://www.w3.org/2002/07/owl#Thing node3
+node3 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Thing</B></td></tr><tr><td href='http://www.w3.org/2002/07/owl#Thing' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2002/07/owl#Thing</font></td></tr></table> > ] 
+# f9626c76ba46d4e2a8d3b742cce3aab08b2 node4
+node4 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>f9626c76ba46d4e2a8d3b742cce3aab08b2</B></td></tr><tr><td href='f9626c76ba46d4e2a8d3b742cce3aab08b2' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>f9626c76ba46d4e2a8d3b742cce3aab08b2</font></td></tr><tr><td align='left'>ns1:has_identifier_GID-39085_Type-55936</td><td align='left'>&quot;29288e5d-3203-533a-3558-537ac6b1d4ca&quot;^^xsd:string</td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#Entity_GID-1 node5
+node5 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Entity_GID-1</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#Entity_GID-1' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#Entity_GID-1</font></td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#Patient_GID-55936 node6
+node6 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Patient_GID-55936</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#Patient_GID-55936' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#Patient_GID-55936</font></td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#Observation_GID-31728 node7
+node7 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Observation_GID-31728</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#Observation_GID-31728' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#Observation_GID-31728</font></td></tr></table> > ] 
+}

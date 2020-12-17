@@ -1,0 +1,802 @@
+[
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["26.5"],
+            "31829": ["METABOLIC: BUN"],
+            "80737": ["1974-01-12 08:09:45.813000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["7"],
+            "31829": ["CBC: NEUTROPHILS"],
+            "80737": ["1974-01-11 13:18:50.063000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["134.2"],
+            "31829": ["METABOLIC: GLUCOSE"],
+            "80737": ["1974-01-11 13:57:06.970000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.6"],
+            "31829": ["METABOLIC: BILI TOTAL"],
+            "80737": ["1974-01-12 00:07:30.780000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["23.9"],
+            "31829": ["METABOLIC: BUN"],
+            "80737": ["1974-01-13 09:24:56.517000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["78.1"],
+            "31829": ["CBC: ABSOLUTE NEUTROPHILS"],
+            "80737": ["1974-01-12 11:25:50.853000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["%"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["3"],
+            "31829": ["CBC: LYMPHOCYTES"],
+            "80737": ["1974-01-12 06:44:58.847000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["5"],
+            "31829": ["METABOLIC: ANION GAP"],
+            "80737": ["1974-01-12 09:25:24.907000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mmol/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["22.4"],
+            "31829": ["CBC: MCH"],
+            "80737": ["1974-01-13 01:37:25.790000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["pg"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["2.8"],
+            "31829": ["METABOLIC: ALBUMIN"],
+            "80737": ["1974-01-11 18:50:32.400000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["gm/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["8.3"],
+            "31829": ["METABOLIC: CALCIUM"],
+            "80737": ["1974-01-12 01:42:17.763000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["35.3"],
+            "31829": ["METABOLIC: AST/SGOT"],
+            "80737": ["1974-01-13 22:01:03.073000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["U/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["1"],
+            "31829": ["URINALYSIS: SPECIFIC GRAVITY"],
+            "80737": ["1974-01-12 00:13:44.200000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["no unit"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.8"],
+            "31829": ["METABOLIC: CREATININE"],
+            "80737": ["1974-01-13 11:21:17.480000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["3.4"],
+            "31829": ["METABOLIC: POTASSIUM"],
+            "80737": ["1974-01-12 23:44:38.300000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mmol/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["1"],
+            "31829": ["URINALYSIS: SPECIFIC GRAVITY"],
+            "80737": ["1974-01-11 03:12:04.290000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["no unit"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.9"],
+            "31829": ["CBC: MONOCYTES"],
+            "80737": ["1974-01-11 03:14:30.127000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["44.4"],
+            "31829": ["CBC: HEMATOCRIT"],
+            "80737": ["1974-01-12 21:57:35.003000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["%"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["5.1"],
+            "31829": ["CBC: RED BLOOD CELL COUNT"],
+            "80737": ["1974-01-12 14:27:22.540000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["m/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["7"],
+            "31829": ["METABOLIC: ANION GAP"],
+            "80737": ["1974-01-13 13:45:58.263000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mmol/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["6.2"],
+            "31829": ["METABOLIC: TOTAL PROTEIN"],
+            "80737": ["1974-01-12 20:15:20.400000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["gm/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["8.1"],
+            "31829": ["CBC: WHITE BLOOD CELL COUNT"],
+            "80737": ["1974-01-13 15:13:18.223000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["6.9"],
+            "31829": ["URINALYSIS: PH"],
+            "80737": ["1974-01-13 19:55:03.850000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["no unit"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["87.6"],
+            "31829": ["CBC: MEAN CORPUSCULAR VOLUME"],
+            "80737": ["1974-01-12 04:38:40.433000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["fl"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["9.2"],
+            "31829": ["CBC: WHITE BLOOD CELL COUNT"],
+            "80737": ["1974-01-11 02:24:53.063000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.5"],
+            "31829": ["URINALYSIS: RED BLOOD CELLS"],
+            "80737": ["1974-01-13 00:03:05.363000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["rbc/hpf"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["3"],
+            "31829": ["METABOLIC: POTASSIUM"],
+            "80737": ["1974-01-12 10:39:23.390000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mmol/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["4.8"],
+            "31829": ["METABOLIC: ALBUMIN"],
+            "80737": ["1974-01-13 13:44:45.880000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["gm/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["20.9"],
+            "31829": ["METABOLIC: CARBON DIOXIDE"],
+            "80737": ["1974-01-12 16:08:10.467000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mmol/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["40"],
+            "31829": ["METABOLIC: ALT/SGPT"],
+            "80737": ["1974-01-11 21:10:51.930000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["U/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["34.3"],
+            "31829": ["CBC: ABSOLUTE LYMPHOCYTES"],
+            "80737": ["1974-01-12 20:42:55.613000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["%"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["36.4"],
+            "31829": ["CBC: MCH"],
+            "80737": ["1974-01-11 23:21:09.153000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["pg"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.5"],
+            "31829": ["URINALYSIS: RED BLOOD CELLS"],
+            "80737": ["1974-01-11 07:53:46.990000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["rbc/hpf"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["144.6"],
+            "31829": ["METABOLIC: ALK PHOS"],
+            "80737": ["1974-01-12 16:53:01.783000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["U/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["1.1"],
+            "31829": ["METABOLIC: CREATININE"],
+            "80737": ["1974-01-12 04:19:09.543000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["112.8"],
+            "31829": ["METABOLIC: ALK PHOS"],
+            "80737": ["1974-01-13 17:13:39.773000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["U/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.3"],
+            "31829": ["CBC: MONOCYTES"],
+            "80737": ["1974-01-13 09:25:41.923000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["32.1"],
+            "31829": ["CBC: MCHC"],
+            "80737": ["1974-01-12 18:54:29.347000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["g/dl"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.8"],
+            "31829": ["CBC: MONOCYTES"],
+            "80737": ["1974-01-12 22:08:57.687000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["0.2"],
+            "31829": ["CBC: BASOPHILS"],
+            "80737": ["1974-01-12 20:31:01.030000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["2.2"],
+            "31829": ["URINALYSIS: RED BLOOD CELLS"],
+            "80737": ["1974-01-12 01:37:19.733000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["rbc/hpf"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["111.8"],
+            "31829": ["METABOLIC: CHLORIDE"],
+            "80737": ["1974-01-12 02:32:50.310000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mmol/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["129.8"],
+            "31829": ["METABOLIC: GLUCOSE"],
+            "80737": ["1974-01-12 08:03:56.083000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["mg/dL"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["17.1"],
+            "31829": ["CBC: HEMOGLOBIN"],
+            "80737": ["1974-01-11 23:49:28.513000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["gm/dl"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["10.4"],
+            "31829": ["CBC: RDW"],
+            "80737": ["1974-01-12 08:19:15.077000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["%"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["15"],
+            "31829": ["CBC: RDW"],
+            "80737": ["1974-01-11 02:10:43.437000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["%"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["10"],
+            "31829": ["CBC: RDW"],
+            "80737": ["1974-01-13 04:01:10.423000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["%"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["36.5"],
+            "31829": ["METABOLIC: ALT/SGPT"],
+            "80737": ["1974-01-11 22:28:22.910000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["U/L"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["5.2"],
+            "31829": ["CBC: WHITE BLOOD CELL COUNT"],
+            "80737": ["1974-01-12 10:35:36.757000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+        "attributes": {
+            "146": ["225.3"],
+            "31829": ["CBC: PLATELET COUNT"],
+            "80737": ["1974-01-12 20:37:40.967000000"],
+            "31507": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:30:53 GMT 2020",
+                "attributes": {"39085": ["BF7165BC-CCD9-4CE4-944F-E3C9786B7BF3"]},
+                "type": 55936
+            }],
+            "72050": ["k/cumm"],
+            "39085": ["1"]
+        },
+        "type": 31728
+    }
+]

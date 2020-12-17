@@ -1,0 +1,22 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 20:09:06 GMT 2020",
+    "attributes": {
+        "34101": ["active"],
+        "765": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 20:09:06 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 20:09:06 GMT 2020",
+                "attributes": {"39085": ["29288e5d-3203-533a-3558-537ac6b1d4ca"]},
+                "type": 55936
+            }
+        ],
+        "80737": [86801625000],
+        "74023": ["Hypertension"],
+        "39085": ["3242fec1-bc55-70ca-fcdf-4417f2fc634c"]
+    },
+    "type": 77328
+}]

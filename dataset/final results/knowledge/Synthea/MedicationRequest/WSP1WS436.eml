@@ -1,0 +1,21 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 19:32:37 GMT 2020",
+    "attributes": {
+        "146": ["1.0"],
+        "40663": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:32:37 GMT 2020",
+                "attributes": {"39085": ["29288e5d-3203-533a-3558-537ac6b1d4ca"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:32:37 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            }
+        ],
+        "104900": ["Hydrochlorothiazide 25 MG Oral Tablet"],
+        "39085": ["784d3112-2f6f-85e9-843c-64c2a8e2ad95"]
+    },
+    "type": 3440
+}]

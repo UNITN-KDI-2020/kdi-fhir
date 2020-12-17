@@ -1,0 +1,21 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 18:55:09 GMT 2020",
+    "attributes": {
+        "113228": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 18:55:09 GMT 2020",
+                "attributes": {"39085": ["29288e5d-3203-533a-3558-537ac6b1d4ca"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 18:55:09 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            }
+        ],
+        "80737": [86802525000],
+        "103418": ["General examination of patient (procedure)"],
+        "39085": ["70332c76-f207-8ba8-5856-1d131ca51fe0"]
+    },
+    "type": 110379
+}]

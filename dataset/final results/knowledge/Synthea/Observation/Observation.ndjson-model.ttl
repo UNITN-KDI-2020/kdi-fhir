@@ -1,0 +1,642 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1epovf3dfx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "Observation.ndjson" ;
+	km-dev:modelPublicationTime "1608229817776"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"valueQuantity\"},{\"columnName\":\"unit\"}],[{\"columnName\":\"effectiveDateTime\"}],[{\"columnName\":\"subject\"},{\"columnName\":\"patientID\"},{\"columnName\":\"Values\"}],[{\"columnName\":\"valueQuantity\"},{\"columnName\":\"value\"}],[{\"columnName\":\"category\"},{\"columnName\":\"coding\"},{\"columnName\":\"display\"}],[{\"columnName\":\"id\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"valueQuantity\"},{\"columnName\":\"unit\"}],[{\"columnName\":\"effectiveDateTime\"}],[{\"columnName\":\"subject\"},{\"columnName\":\"patientID\"},{\"columnName\":\"Values\"}],[{\"columnName\":\"valueQuantity\"},{\"columnName\":\"value\"}],[{\"columnName\":\"category\"},{\"columnName\":\"coding\"},{\"columnName\":\"display\"}],[{\"columnName\":\"id\"}]]" ;
+	km-dev:hasModelLabel "Observation.ndjson" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SplitValuesCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"subject\"},
+                    {\"columnName\": \"reference\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"delimiter\",
+                \"type\": \"other\",
+                \"value\": \"/\"
+            },
+            {
+                \"name\": \"newColName\",
+                \"type\": \"other\",
+                \"value\": \"patientID\"
+            },
+            {
+                \"name\": \"newHNodeId\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Transformation\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-31728\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-317281\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-1\",
+                    \"DomainLabel\": \"etype:Observation_GID-317281 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:string\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"valueQuantity\"},
+                    {\"columnName\": \"value\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-31728\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-317281\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_measure_GID-146_Type-31728\",
+                    \"DomainLabel\": \"etype:Observation_GID-317281\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:float\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"valueQuantity\\\"},{\\\"columnName\\\":\\\"value\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"valueQuantity\\\"},{\\\"columnName\\\":\\\"value\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"valueQuantity\"},
+                    {\"columnName\": \"unit\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-31728\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-317281\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_unit_of_measurement_GID-72050_Type-31728\",
+                    \"DomainLabel\": \"etype:Observation_GID-317281\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:string\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"valueQuantity\\\"},{\\\"columnName\\\":\\\"unit\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"valueQuantity\\\"},{\\\"columnName\\\":\\\"unit\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"effectiveDateTime\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-31728\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-317281\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-31728\",
+                    \"DomainLabel\": \"etype:Observation_GID-317281\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:dateTime\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"effectiveDateTime\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"effectiveDateTime\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"subject\"},
+                    {\"columnName\": \"patientID\"},
+                    {\"columnName\": \"Values\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Patient_GID-55936\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Patient_GID-559361\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-55936\",
+                    \"DomainLabel\": \"etype:Patient_GID-559361 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:string\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"subject\\\"},{\\\"columnName\\\":\\\"patientID\\\"},{\\\"columnName\\\":\\\"Values\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"subject\\\"},{\\\"columnName\\\":\\\"patientID\\\"},{\\\"columnName\\\":\\\"Values\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"category\"},
+                    {\"columnName\": \"coding\"},
+                    {\"columnName\": \"display\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-31728\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-317281\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_kind_GID-31829_Type-31728\",
+                    \"DomainLabel\": \"etype:Observation_GID-317281\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:string\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"category\\\"},{\\\"columnName\\\":\\\"coding\\\"},{\\\"columnName\\\":\\\"display\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"category\\\"},{\\\"columnName\\\":\\\"coding\\\"},{\\\"columnName\\\":\\\"display\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Patient_GID-559361\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_analysis_GID-31507_Type-55936\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Patient_GID-55936\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-317281\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Observation_GID-31728\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 a rr:TriplesMap .
+
+_:node1epovf3dfx1 km-dev:hasTriplesMap km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx2 rr:tableName "Observation.ndjson" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasLogicalTable _:node1epovf3dfx2 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:logicalTable _:node1epovf3dfx2 ;
+	rr:subjectMap _:node1epovf3dfx3 .
+
+_:node1epovf3dfx1 km-dev:hasSubjectMap _:node1epovf3dfx3 .
+
+_:node1epovf3dfx3 km-dev:isPartOfMapping _:node1epovf3dfx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Observation_GID-317281" ;
+	rr:class <http://knowdive.disi.unitn.it/etype#Observation_GID-31728> ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Observation_GID-317281" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_e07280b5-0bc0-4e0b-ac22-72b8947ed0f4 rr:predicate <http://knowdive.disi.unitn.it/etype#has_analysis_GID-31507_Type-55936> .
+
+km-dev:RefObjectMap_66dcf666-cc56-42af-86c7-19c8abb76ce3 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_69d7eda9-38e3-469a-bebb-72ca21060bf7 ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap km-dev:RefObjectMap_66dcf666-cc56-42af-86c7-19c8abb76ce3 .
+
+km-dev:PredicateObjectMap_e07280b5-0bc0-4e0b-ac22-72b8947ed0f4 rr:objectMap km-dev:RefObjectMap_66dcf666-cc56-42af-86c7-19c8abb76ce3 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:predicateObjectMap km-dev:PredicateObjectMap_e07280b5-0bc0-4e0b-ac22-72b8947ed0f4 .
+
+km-dev:PredicateObjectMap_e07280b5-0bc0-4e0b-ac22-72b8947ed0f4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e07280b5-0bc0-4e0b-ac22-72b8947ed0f4 .
+
+km-dev:PredicateObjectMap_3ac27279-50f4-4d74-86c0-7a39c814f39b rr:predicate <http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-31728> .
+
+_:node1epovf3dfx4 rr:column "effectiveDateTime" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#dateTime" ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap _:node1epovf3dfx4 .
+
+km-dev:PredicateObjectMap_3ac27279-50f4-4d74-86c0-7a39c814f39b rr:objectMap _:node1epovf3dfx4 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:predicateObjectMap km-dev:PredicateObjectMap_3ac27279-50f4-4d74-86c0-7a39c814f39b .
+
+km-dev:PredicateObjectMap_3ac27279-50f4-4d74-86c0-7a39c814f39b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3ac27279-50f4-4d74-86c0-7a39c814f39b .
+
+km-dev:PredicateObjectMap_b7fb309c-beaa-42fc-977f-255fae4e92ea rr:predicate <http://knowdive.disi.unitn.it/etype#has_unit_of_measurement_GID-72050_Type-31728> .
+
+_:node1epovf3dfx5 rr:column "[\"valueQuantity\",\"unit\"]" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#string" ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap _:node1epovf3dfx5 .
+
+km-dev:PredicateObjectMap_b7fb309c-beaa-42fc-977f-255fae4e92ea rr:objectMap _:node1epovf3dfx5 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:predicateObjectMap km-dev:PredicateObjectMap_b7fb309c-beaa-42fc-977f-255fae4e92ea .
+
+km-dev:PredicateObjectMap_b7fb309c-beaa-42fc-977f-255fae4e92ea a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b7fb309c-beaa-42fc-977f-255fae4e92ea .
+
+km-dev:PredicateObjectMap_4eb77394-3c60-4c54-a56d-a52135fb81cd rr:predicate <http://knowdive.disi.unitn.it/etype#has_measure_GID-146_Type-31728> .
+
+_:node1epovf3dfx6 rr:column "[\"valueQuantity\",\"value\"]" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#float" ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap _:node1epovf3dfx6 .
+
+km-dev:PredicateObjectMap_4eb77394-3c60-4c54-a56d-a52135fb81cd rr:objectMap _:node1epovf3dfx6 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:predicateObjectMap km-dev:PredicateObjectMap_4eb77394-3c60-4c54-a56d-a52135fb81cd .
+
+km-dev:PredicateObjectMap_4eb77394-3c60-4c54-a56d-a52135fb81cd a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_4eb77394-3c60-4c54-a56d-a52135fb81cd .
+
+km-dev:PredicateObjectMap_6d2949aa-d6ee-4526-8f80-e1a0f07ba0ae rr:predicate <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-1> .
+
+_:node1epovf3dfx7 rr:column "id" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#string" ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap _:node1epovf3dfx7 .
+
+km-dev:PredicateObjectMap_6d2949aa-d6ee-4526-8f80-e1a0f07ba0ae rr:objectMap _:node1epovf3dfx7 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:predicateObjectMap km-dev:PredicateObjectMap_6d2949aa-d6ee-4526-8f80-e1a0f07ba0ae .
+
+km-dev:PredicateObjectMap_6d2949aa-d6ee-4526-8f80-e1a0f07ba0ae a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6d2949aa-d6ee-4526-8f80-e1a0f07ba0ae .
+
+km-dev:PredicateObjectMap_6f078221-3fbf-4378-b3a8-89e5fabc959b rr:predicate <http://knowdive.disi.unitn.it/etype#has_kind_GID-31829_Type-31728> .
+
+_:node1epovf3dfx8 rr:column "[\"category\",\"coding\",\"display\"]" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#string" ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap _:node1epovf3dfx8 .
+
+km-dev:PredicateObjectMap_6f078221-3fbf-4378-b3a8-89e5fabc959b rr:objectMap _:node1epovf3dfx8 .
+
+km-dev:TriplesMap_ac06ca08-5dc2-4ec4-9a5d-b1f387021bb1 rr:predicateObjectMap km-dev:PredicateObjectMap_6f078221-3fbf-4378-b3a8-89e5fabc959b .
+
+km-dev:PredicateObjectMap_6f078221-3fbf-4378-b3a8-89e5fabc959b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6f078221-3fbf-4378-b3a8-89e5fabc959b .
+
+km-dev:TriplesMap_69d7eda9-38e3-469a-bebb-72ca21060bf7 a rr:TriplesMap .
+
+_:node1epovf3dfx1 km-dev:hasTriplesMap km-dev:TriplesMap_69d7eda9-38e3-469a-bebb-72ca21060bf7 .
+
+km-dev:TriplesMap_69d7eda9-38e3-469a-bebb-72ca21060bf7 km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx9 rr:tableName "Observation.ndjson" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasLogicalTable _:node1epovf3dfx9 .
+
+km-dev:TriplesMap_69d7eda9-38e3-469a-bebb-72ca21060bf7 rr:logicalTable _:node1epovf3dfx9 ;
+	rr:subjectMap _:node1epovf3dfx10 .
+
+_:node1epovf3dfx1 km-dev:hasSubjectMap _:node1epovf3dfx10 .
+
+_:node1epovf3dfx10 km-dev:isPartOfMapping _:node1epovf3dfx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Patient_GID-559361" ;
+	rr:class <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Patient_GID-559361" .
+
+km-dev:PredicateObjectMap_0ec1d0ad-72e4-4ce4-a45c-ad5ef7a5d18c rr:predicate <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-55936> .
+
+_:node1epovf3dfx11 rr:column "[\"subject\",\"patientID\",\"Values\"]" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#string" ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasObjectMap _:node1epovf3dfx11 .
+
+km-dev:PredicateObjectMap_0ec1d0ad-72e4-4ce4-a45c-ad5ef7a5d18c rr:objectMap _:node1epovf3dfx11 .
+
+km-dev:TriplesMap_69d7eda9-38e3-469a-bebb-72ca21060bf7 rr:predicateObjectMap km-dev:PredicateObjectMap_0ec1d0ad-72e4-4ce4-a45c-ad5ef7a5d18c .
+
+km-dev:PredicateObjectMap_0ec1d0ad-72e4-4ce4-a45c-ad5ef7a5d18c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epovf3dfx1 .
+
+_:node1epovf3dfx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0ec1d0ad-72e4-4ce4-a45c-ad5ef7a5d18c .

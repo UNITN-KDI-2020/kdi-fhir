@@ -1,0 +1,21 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 19:16:36 GMT 2020",
+    "attributes": {
+        "80737": ["2011-05-08T16:33:45+02:00"],
+        "77228": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:16:36 GMT 2020",
+                "attributes": {"39085": ["29288e5d-3203-533a-3558-537ac6b1d4ca"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:16:36 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            }
+        ],
+        "25107": ["Influenza, seasonal, injectable, preservative free"],
+        "39085": ["3a672875-e233-7a0b-d59b-afdb283a878f"]
+    },
+    "type": 4274
+}]

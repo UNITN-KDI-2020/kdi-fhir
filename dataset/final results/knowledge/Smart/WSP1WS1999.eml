@@ -1,0 +1,2202 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["1999-08-04"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-708"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["80"],
+            "80737": ["2002-06-14"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["74"],
+            "80737": ["1998-08-28"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["1999-08-04"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-10-17"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-725"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["119"],
+            "80737": ["2003-10-16"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["19.7"],
+            "80737": ["2003-05-22"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77.42822"],
+            "80737": ["2002-05-02"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.8"],
+            "80737": ["2003-12-12"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["80"],
+            "80737": ["2002-06-14"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.2"],
+            "80737": ["2002-07-03"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-07-03"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-721"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2003-10-16"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["187.96"],
+            "80737": ["1999-08-04"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["121"],
+            "80737": ["2003-05-22"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["125"],
+            "80737": ["2003-12-12"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-05-01"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-712"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["123"],
+            "80737": ["2004-06-04"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["9"],
+            "80737": ["2002-07-03"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["1999-08-04"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-07-17"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-07-17"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-723"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["79"],
+            "80737": ["2003-12-12"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2002-05-01"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["1998-08-26"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-07-16"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["19.1"],
+            "80737": ["1999-08-04"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.27778"],
+            "80737": ["2002-06-14"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["118"],
+            "80737": ["2002-03-29"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-12-12"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-726"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-03-29"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["21"],
+            "80737": ["2002-05-31"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["127"],
+            "80737": ["2003-07-17"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["11"],
+            "80737": ["1999-08-05"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["81"],
+            "80737": ["2003-07-17"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["73.4366"],
+            "80737": ["2003-10-16"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2003-07-03"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["121"],
+            "80737": ["1997-04-29"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["1999-08-04"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.23"],
+            "80737": ["2002-05-01"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["124"],
+            "80737": ["1999-08-05"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-05-02"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.44444"],
+            "80737": ["1998-08-28"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["67.08631"],
+            "80737": ["1998-08-28"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.738"],
+            "80737": ["2002-06-14"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["187.452"],
+            "80737": ["1998-08-26"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["81"],
+            "80737": ["2003-07-17"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["19.3"],
+            "80737": ["1997-04-29"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-05-02"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-713"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-06-14"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-715"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["1997-04-29"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["11"],
+            "80737": ["1997-04-29"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-10-17"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["126"],
+            "80737": ["2002-07-22"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["67.5399"],
+            "80737": ["1999-08-04"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["123"],
+            "80737": ["2002-05-01"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["187.96"],
+            "80737": ["1997-04-29"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["19.9"],
+            "80737": ["2003-07-03"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["1999-08-05"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-709"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-07-03"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.30262"],
+            "80737": ["2002-07-03"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-07-03"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2003-07-03"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-07-24"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-719"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.2"],
+            "80737": ["1999-08-05"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2003-07-17"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.6655"],
+            "80737": ["2003-10-17"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-12-12"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75"],
+            "80737": ["2004-03-30"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2003-07-16"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2002-05-02"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["10"],
+            "80737": ["2002-05-02"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2005-01-12"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-730"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-07-03"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-716"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["1999-08-04"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["10"],
+            "80737": ["2002-05-01"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["122"],
+            "80737": ["1999-08-04"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["187.452"],
+            "80737": ["1998-08-28"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2002-05-01"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["1997-04-29"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-705"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["70"],
+            "80737": ["1997-04-29"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["70.48825"],
+            "80737": ["1999-08-10"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75"],
+            "80737": ["2002-07-23"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["119"],
+            "80737": ["2004-03-30"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["10"],
+            "80737": ["1998-08-26"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["190.246"],
+            "80737": ["2003-12-12"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-10-16"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-12-12"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["1999-08-05"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["19.8"],
+            "80737": ["1999-08-10"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["188.722"],
+            "80737": ["1999-08-10"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["11"],
+            "80737": ["1999-08-10"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-07-03"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2004-03-30"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-727"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.30262"],
+            "80737": ["2003-07-03"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["123"],
+            "80737": ["2002-05-02"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75.47777"],
+            "80737": ["2002-06-14"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2002-07-24"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2003-05-22"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["191.008"],
+            "80737": ["2003-05-22"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["18.5"],
+            "80737": ["2003-07-17"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75.886"],
+            "80737": ["2002-05-31"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-06-14"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["10"],
+            "80737": ["2002-07-24"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["71.71295"],
+            "80737": ["2003-05-22"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["67.5399"],
+            "80737": ["2003-07-17"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.2"],
+            "80737": ["2002-07-24"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["188.214"],
+            "80737": ["2004-03-30"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.1"],
+            "80737": ["2003-10-17"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.992"],
+            "80737": ["2003-07-16"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["70"],
+            "80737": ["1997-04-29"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["67.9935"],
+            "80737": ["2003-07-16"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["18.9"],
+            "80737": ["2004-03-30"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.62014"],
+            "80737": ["2002-07-24"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.44444"],
+            "80737": ["1997-04-29"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["9"],
+            "80737": ["2002-06-14"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["73"],
+            "80737": ["2002-03-29"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["121"],
+            "80737": ["2002-07-23"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["78"],
+            "80737": ["2002-07-03"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75.20561"],
+            "80737": ["2003-12-12"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["11"],
+            "80737": ["1999-08-04"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["73"],
+            "80737": ["2002-03-29"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-07-23"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-718"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2002-05-01"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.992"],
+            "80737": ["2002-05-31"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["122"],
+            "80737": ["1999-08-10"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2003-05-22"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-05-01"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["78"],
+            "80737": ["2004-06-04"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.992"],
+            "80737": ["2003-10-17"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2002-07-24"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-07-22"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.3"],
+            "80737": ["2003-10-16"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["190.5"],
+            "80737": ["2003-07-03"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["122"],
+            "80737": ["2002-07-24"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["78"],
+            "80737": ["1999-08-05"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-07-22"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-717"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75"],
+            "80737": ["2002-07-23"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["1998-08-26"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-706"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-10-17"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["78"],
+            "80737": ["2008-02-26"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.27778"],
+            "80737": ["2003-12-12"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["18.8"],
+            "80737": ["2003-07-16"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.16655"],
+            "80737": ["2002-07-22"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["21.4"],
+            "80737": ["2002-03-29"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75"],
+            "80737": ["2004-03-30"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["9"],
+            "80737": ["2002-05-31"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["78"],
+            "80737": ["1999-08-05"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.3"],
+            "80737": ["2002-05-01"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["1999-08-10"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["120"],
+            "80737": ["2003-07-16"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75"],
+            "80737": ["2003-10-16"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2002-07-22"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["67.04095"],
+            "80737": ["2004-03-30"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-07-24"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20"],
+            "80737": ["2002-07-22"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-10-16"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["9"],
+            "80737": ["2002-07-23"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["68.26565"],
+            "80737": ["1997-04-29"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2002-03-29"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2003-10-17"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2004-06-03"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-728"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2003-10-17"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2002-05-31"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "2": ["H."],
+            "34003": ["Hill"],
+            "81257": ["1965-02-13"],
+            "36367": ["99 River Ave"],
+            "46010": ["USA"],
+            "45969": ["Tulsa"],
+            "39085": ["smart-613876"]
+        },
+        "type": 55936
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["125"],
+            "80737": ["2002-07-03"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.07583"],
+            "80737": ["1999-08-05"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["1998-08-26"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76.88391"],
+            "80737": ["2002-03-29"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2002-05-02"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2003-07-16"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.27778"],
+            "80737": ["2003-10-17"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["125"],
+            "80737": ["2004-06-03"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-07-23"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "2": ["Joshua"],
+            "34003": ["Hill"],
+            "81257": ["1965-02-13"],
+            "36367": ["99 River Ave"],
+            "46010": ["USA"],
+            "45969": ["Tulsa"],
+            "39085": ["smart-613876"]
+        },
+        "type": 55936
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.27778"],
+            "80737": ["2002-05-02"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-05-22"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["21.7"],
+            "80737": ["2002-05-02"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.38889"],
+            "80737": ["1998-08-26"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.27778"],
+            "80737": ["2002-05-31"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["79"],
+            "80737": ["2002-07-22"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.38889"],
+            "80737": ["1999-08-10"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["79"],
+            "80737": ["2002-07-22"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["9"],
+            "80737": ["2002-07-22"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["127"],
+            "80737": ["2002-06-14"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["76"],
+            "80737": ["2003-07-16"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["122"],
+            "80737": ["2003-10-17"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-05-22"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-720"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["78"],
+            "80737": ["2002-07-03"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["19.1"],
+            "80737": ["1998-08-28"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["124"],
+            "80737": ["2002-05-31"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["1999-08-10"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-03-29"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-711"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2002-05-31"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["188.722"],
+            "80737": ["1999-08-05"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["1998-08-26"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2004-06-04"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-729"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2002-07-03"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["1998-08-28"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-10-16"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-724"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["121"],
+            "80737": ["1998-08-26"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.9"],
+            "80737": ["2002-06-14"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2002-05-31"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-714"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["1999-08-05"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.23"],
+            "80737": ["2002-03-29"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["9"],
+            "80737": ["2002-03-29"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["13"],
+            "80737": ["2004-03-30"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {"80737": ["1997-04-29"]},
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2003-05-22"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.27778"],
+            "80737": ["2004-03-30"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2003-07-03"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["121"],
+            "80737": ["2003-07-03"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2002-07-24"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["62.50503"],
+            "80737": ["1998-08-26"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["118"],
+            "80737": ["1998-08-28"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["1999-08-10"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["123"],
+            "80737": ["2008-02-26"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.52942"],
+            "80737": ["2002-07-23"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["79"],
+            "80737": ["2003-12-12"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["1999-08-10"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-710"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["72.6655"],
+            "80737": ["2002-05-01"],
+            "72050": ["kg"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["20.1"],
+            "80737": ["2002-07-23"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2008-02-26"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-731"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["17.8"],
+            "80737": ["1998-08-26"],
+            "72050": ["kg/m2"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["188.976"],
+            "80737": ["2002-05-02"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["80"],
+            "80737": ["2004-06-03"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["127"],
+            "80737": ["2005-01-12"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.484"],
+            "80737": ["2002-07-24"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["75"],
+            "80737": ["2003-10-16"],
+            "72050": ["{beats}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["2003-07-16"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-722"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["37.33333"],
+            "80737": ["2002-07-23"],
+            "72050": ["Cel"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["74"],
+            "80737": ["1998-08-28"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["190.754"],
+            "80737": ["2003-07-17"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["77"],
+            "80737": ["2002-05-31"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.23"],
+            "80737": ["2002-07-03"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.992"],
+            "80737": ["2003-10-16"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-07-16"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["100"],
+            "80737": ["2003-05-22"],
+            "72050": ["%{HemoglobinSaturation}"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "80737": ["1998-08-28"],
+            "103418": ["ambulatory"],
+            "39085": ["smart-Encounter-707"]
+        },
+        "type": 110379
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.738"],
+            "80737": ["2002-07-23"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["81"],
+            "80737": ["2005-01-12"],
+            "72050": ["mm[Hg]"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["8"],
+            "80737": ["2003-07-17"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["189.738"],
+            "80737": ["2002-07-22"],
+            "72050": ["cm"]
+        },
+        "type": 31728
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 20:48:02 GMT 2020",
+        "attributes": {
+            "146": ["10"],
+            "80737": ["1998-08-28"],
+            "72050": ["{breaths}/min"]
+        },
+        "type": 31728
+    }
+]

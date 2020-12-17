@@ -1,0 +1,28 @@
+digraph { 
+ node [ fontname="DejaVu Sans" ] ; 
+	node1 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node5 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:has_attend_GID-113228_Type-55936</font> > ] ;
+	node1 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node1 -> node6 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:has_attend_GID-113228_Type-55936</font> > ] ;
+	node0 -> node6 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node6 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+# f475181e5c5754b51a68b36767b28ddf0b1 node0
+node0 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>f475181e5c5754b51a68b36767b28ddf0b1</B></td></tr><tr><td href='f475181e5c5754b51a68b36767b28ddf0b1' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>f475181e5c5754b51a68b36767b28ddf0b1</font></td></tr><tr><td align='left'>ns1:has_identifier_GID-39085_Type-55936</td><td align='left'>&quot;Patient&quot;^^xsd:string</td></tr></table> > ] 
+# f475181e5c5754b51a68b36767b28ddf0b3 node1
+node1 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>f475181e5c5754b51a68b36767b28ddf0b3</B></td></tr><tr><td href='f475181e5c5754b51a68b36767b28ddf0b3' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>f475181e5c5754b51a68b36767b28ddf0b3</font></td></tr><tr><td align='left'>ns1:has_identifier_GID-39085_Type-55936</td><td align='left'>&quot;29288e5d-3203-533a-3558-537ac6b1d4ca&quot;^^xsd:string</td></tr></table> > ] 
+# http://www.w3.org/2002/07/owl#Thing node2
+node2 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Thing</B></td></tr><tr><td href='http://www.w3.org/2002/07/owl#Thing' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2002/07/owl#Thing</font></td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#Patient_GID-55936 node3
+node3 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Patient_GID-55936</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#Patient_GID-55936' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#Patient_GID-55936</font></td></tr></table> > ] 
+# f475181e5c5754b51a68b36767b28ddf0b2 node4
+node4 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>f475181e5c5754b51a68b36767b28ddf0b2</B></td></tr><tr><td href='f475181e5c5754b51a68b36767b28ddf0b2' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>f475181e5c5754b51a68b36767b28ddf0b2</font></td></tr><tr><td align='left'>ns1:has_date_GID-80737_Type-110379</td><td align='left'>&quot;1972-10-01T15:48:45+01:00&quot;^^xsd:dateTime</td></tr><tr><td align='left'>ns1:has_identifier_GID-39085_Type-110379</td><td align='left'>&quot;70332c76-f207-8ba8-5856-1d131ca51fe0&quot;^^xsd:string</td></tr><tr><td align='left'>ns1:has_type_GID-103418_Type-110379</td><td align='left'>&quot;General examination of patient (procedure)&quot;^^xsd:string</td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#Meet_GID-110379 node5
+node5 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Meet_GID-110379</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#Meet_GID-110379' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#Meet_GID-110379</font></td></tr></table> > ] 
+# http://knowdive.disi.unitn.it/etype#ComplexType node6
+node6 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>ComplexType</B></td></tr><tr><td href='http://knowdive.disi.unitn.it/etype#ComplexType' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://knowdive.disi.unitn.it/etype#ComplexType</font></td></tr></table> > ] 
+}

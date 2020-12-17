@@ -1,0 +1,21 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 19:46:24 GMT 2020",
+    "attributes": {
+        "2966": ["Medication Reconciliation (procedure)"],
+        "3414": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:46:24 GMT 2020",
+                "attributes": {"39085": ["29288e5d-3203-533a-3558-537ac6b1d4ca"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 19:46:24 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            }
+        ],
+        "80737": [1401036525000],
+        "39085": ["85d96885-706e-d3e3-1b52-d1ca4f0efddf"]
+    },
+    "type": 5269
+}]

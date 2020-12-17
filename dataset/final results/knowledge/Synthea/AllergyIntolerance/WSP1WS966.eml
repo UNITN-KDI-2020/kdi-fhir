@@ -1,0 +1,22 @@
+[{
+    "provenance": "StarLinker import @Wed Dec 16 20:00:04 GMT 2020",
+    "attributes": {
+        "80737": [-418079344000],
+        "28081": [
+            {
+                "provenance": "StarLinker import @Wed Dec 16 20:00:04 GMT 2020",
+                "attributes": {"39085": ["497fb8ee-a819-b625-b8d4-fb8f8a91259c"]},
+                "type": 55936
+            },
+            {
+                "provenance": "StarLinker import @Wed Dec 16 20:00:04 GMT 2020",
+                "attributes": {"39085": ["Patient"]},
+                "type": 55936
+            }
+        ],
+        "130": ["active"],
+        "104900": ["Shellfish allergy"],
+        "39085": ["0ad5006a-3652-2e55-d0a4-098ce9a798f3"]
+    },
+    "type": 77258
+}]

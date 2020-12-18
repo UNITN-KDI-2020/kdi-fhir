@@ -17,5 +17,5 @@ Phase 3: Refined EER Model / Ontology visualisation
 
 Added 18/12/2020
 Phase 4: Final Project report (2020__2021_KDI_FHIR_Health_Record.pdf)  
-Phase 4: Final report presentation  
-Phase 4: Final demo presentation  
+Phase 4: Final report presentation added to relevant folder in parent directory
+Phase 4: Final demo presentation added to relevant folder in parent directory

@@ -1,2 +1,2 @@
 
-Documentation regarding the code produed in the "code" folder of the current repository.
+Code documentation can be found in the code folder.

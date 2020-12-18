@@ -4,7 +4,7 @@ This project is about building knowledge graphs for Fast Healthcare Interoperabi
 \
 The team consists of\
 Shaun McNaughton - Project Manager + Knowledge Engineer\
-Jacopo Mocellin - Data Expert + Knowledge Engineer\
+Jacopo Mocellin - Domain Expert + Knowledge Engineer\
 Sander Martins Gonçalves - Data Scientist\
 Zuhairia Ibnat - Data Scientist\
 

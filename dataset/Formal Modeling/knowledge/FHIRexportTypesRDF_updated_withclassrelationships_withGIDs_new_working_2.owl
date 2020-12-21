@@ -1,0 +1,1221 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@base <http://www.w3.org/2002/07/owl#> .
+
+[ rdf:type owl:Ontology
+ ] .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#GID
+etype:GID rdf:type owl:AnnotationProperty .
+
+
+###  http://knowdive.disi.unitn.it/etype#hasUnitOfMeasure
+etype:hasUnitOfMeasure rdf:type owl:AnnotationProperty ;
+                       rdfs:range etype:concept .
+
+
+###  http://knowdive.disi.unitn.it/etype#isEtype
+etype:isEtype rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#concept
+etype:concept rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#GID
+etype:GID rdf:type owl:ObjectProperty .
+
+
+###  http://knowdive.disi.unitn.it/etype#hasIdProperty
+etype:hasIdProperty rdf:type owl:ObjectProperty ;
+                    rdfs:domain etype:IdentifyingSet .
+
+
+###  http://knowdive.disi.unitn.it/etype#hasIdentifyingSet
+etype:hasIdentifyingSet rdf:type owl:ObjectProperty ;
+                        rdfs:range etype:IdentifyingSet .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_analysis_GID-31507_Type-55936
+etype:has_analysis_GID-31507_Type-55936 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Patient_GID-55936 ;
+                                        rdfs:range etype:Entity_GID-1 ;
+                                        etype:GID "31507"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_attend_GID-113228_Type-55936
+etype:has_attend_GID-113228_Type-55936 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range etype:ComplexType ;
+                                       etype:GID "113228"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_beginning_GID-81324_Type-1
+etype:has_beginning_GID-81324_Type-1 rdf:type owl:ObjectProperty ;
+                                     rdfs:subPropertyOf etype:relationalAttribute ;
+                                     rdfs:domain etype:Entity_GID-1 ;
+                                     rdfs:range etype:Entity_GID-1 ;
+                                     etype:GID "81324"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_beginning_GID-81324_Type-110379
+etype:has_beginning_GID-81324_Type-110379 rdf:type owl:ObjectProperty ;
+                                          rdfs:subPropertyOf etype:relationalAttribute ;
+                                          rdfs:domain etype:Meet_GID-110379 ;
+                                          rdfs:range etype:Entity_GID-1 ;
+                                          etype:GID "81324"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_beginning_GID-81324_Type-55936
+etype:has_beginning_GID-81324_Type-55936 rdf:type owl:ObjectProperty ;
+                                         rdfs:subPropertyOf etype:relationalAttribute ;
+                                         rdfs:domain etype:Patient_GID-55936 ;
+                                         rdfs:range etype:Entity_GID-1 ;
+                                         etype:GID "81324"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_birthday_GID-81257_Type-118
+etype:has_birthday_GID-81257_Type-118 rdf:type owl:ObjectProperty ;
+                                      rdfs:subPropertyOf etype:relationalAttribute ;
+                                      rdfs:domain etype:Person_GID-118 ;
+                                      rdfs:range etype:Entity_GID-1 ;
+                                      etype:GID "81257"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_birthplace_GID-45896_Type-118
+etype:has_birthplace_GID-45896_Type-118 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Person_GID-118 ;
+                                        rdfs:range etype:Location_GID-132 ;
+                                        etype:GID "45896"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_birthplace_GID-45897_Type-45663
+etype:has_birthplace_GID-45897_Type-45663 rdf:type owl:ObjectProperty ;
+                                          rdfs:subPropertyOf etype:relationalAttribute ;
+                                          rdfs:domain etype:Metadata_GID-45663 ;
+                                          rdfs:range etype:Location_GID-132 ;
+                                          etype:GID "45897"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_contributor_GID-53267_Type-16921
+etype:has_contributor_GID-53267_Type-16921 rdf:type owl:ObjectProperty ;
+                                           rdfs:subPropertyOf etype:relationalAttribute ;
+                                           rdfs:domain etype:Creation_GID-16921 ;
+                                           rdfs:range etype:Person_GID-118 ;
+                                           etype:GID "53267"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_creator_GID-51275_Type-16921
+etype:has_creator_GID-51275_Type-16921 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Creation_GID-16921 ;
+                                       rdfs:range etype:Person_GID-118 ;
+                                       etype:GID "51275"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_creator_GID-51275_Type-34892
+etype:has_creator_GID-51275_Type-34892 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Computer_file_GID-34892 ;
+                                       rdfs:range etype:Person_GID-118 ;
+                                       etype:GID "51275"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_of_death_GID-118224_Type-118
+etype:has_date_of_death_GID-118224_Type-118 rdf:type owl:ObjectProperty ;
+                                            rdfs:subPropertyOf etype:relationalAttribute ;
+                                            rdfs:domain etype:Person_GID-118 ;
+                                            rdfs:range etype:Entity_GID-1 ;
+                                            etype:GID "118224"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_of_publication_GID-117691_Type-34892
+etype:has_date_of_publication_GID-117691_Type-34892 rdf:type owl:ObjectProperty ;
+                                                    rdfs:subPropertyOf etype:relationalAttribute ;
+                                                    rdfs:domain etype:Computer_file_GID-34892 ;
+                                                    rdfs:range etype:Entity_GID-1 ;
+                                                    etype:GID "117691"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_description_GID-3_Type-1
+etype:has_description_GID-3_Type-1 rdf:type owl:ObjectProperty ;
+                                   rdfs:subPropertyOf etype:relationalAttribute ;
+                                   rdfs:domain etype:Entity_GID-1 ;
+                                   rdfs:range etype:SemanticString ;
+                                   etype:GID "3"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_description_GID-3_Type-110379
+etype:has_description_GID-3_Type-110379 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Meet_GID-110379 ;
+                                        rdfs:range etype:SemanticString ;
+                                        etype:GID "3"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_description_GID-3_Type-55936
+etype:has_description_GID-3_Type-55936 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range etype:SemanticString ;
+                                       etype:GID "3"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_diagnosis_GID-765_Type-55936
+etype:has_diagnosis_GID-765_Type-55936 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range etype:Event_GID-138 ;
+                                       etype:GID "765"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_duration_GID-80582_Type-1
+etype:has_duration_GID-80582_Type-1 rdf:type owl:ObjectProperty ;
+                                    rdfs:subPropertyOf etype:relationalAttribute ;
+                                    rdfs:domain etype:Entity_GID-1 ;
+                                    rdfs:range etype:Entity_GID-1 ;
+                                    etype:GID "80582"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_duration_GID-80582_Type-110379
+etype:has_duration_GID-80582_Type-110379 rdf:type owl:ObjectProperty ;
+                                         rdfs:subPropertyOf etype:relationalAttribute ;
+                                         rdfs:domain etype:Meet_GID-110379 ;
+                                         rdfs:range etype:Entity_GID-1 ;
+                                         etype:GID "80582"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_duration_GID-80582_Type-55936
+etype:has_duration_GID-80582_Type-55936 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Patient_GID-55936 ;
+                                        rdfs:range etype:Entity_GID-1 ;
+                                        etype:GID "80582"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_end_GID-81330_Type-1
+etype:has_end_GID-81330_Type-1 rdf:type owl:ObjectProperty ;
+                               rdfs:subPropertyOf etype:relationalAttribute ;
+                               rdfs:domain etype:Entity_GID-1 ;
+                               rdfs:range etype:Entity_GID-1 ;
+                               etype:GID "81330"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_end_GID-81330_Type-110379
+etype:has_end_GID-81330_Type-110379 rdf:type owl:ObjectProperty ;
+                                    rdfs:subPropertyOf etype:relationalAttribute ;
+                                    rdfs:domain etype:Meet_GID-110379 ;
+                                    rdfs:range etype:Entity_GID-1 ;
+                                    etype:GID "81330"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_end_GID-81330_Type-55936
+etype:has_end_GID-81330_Type-55936 rdf:type owl:ObjectProperty ;
+                                   rdfs:subPropertyOf etype:relationalAttribute ;
+                                   rdfs:domain etype:Patient_GID-55936 ;
+                                   rdfs:range etype:Entity_GID-1 ;
+                                   etype:GID "81330"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_first_name_GID-34006_Type-117693
+etype:has_first_name_GID-34006_Type-117693 rdf:type owl:ObjectProperty ;
+                                           rdfs:subPropertyOf etype:relationalAttribute ;
+                                           rdfs:domain etype:Person_name_GID-117693 ;
+                                           rdfs:range etype:NLString ;
+                                           etype:GID "34006"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_immunity_GID-77228_Type-55936
+etype:has_immunity_GID-77228_Type-55936 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Patient_GID-55936 ;
+                                        rdfs:range etype:Entity_GID-1 ;
+                                        etype:GID "77228"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_ingesta_GID-40663_Type-55936
+etype:has_ingesta_GID-40663_Type-55936 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range etype:Entity_GID-1 ;
+                                       etype:GID "40663"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_key_word_GID-33805_Type-16921
+etype:has_key_word_GID-33805_Type-16921 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Creation_GID-16921 ;
+                                        rdfs:range etype:SemanticString ;
+                                        etype:GID "33805"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_location_GID-132_Type-138
+etype:has_location_GID-132_Type-138 rdf:type owl:ObjectProperty ;
+                                    rdfs:subPropertyOf etype:relationalAttribute ;
+                                    rdfs:domain etype:Event_GID-138 ;
+                                    rdfs:range etype:Function_kind_GID-120019 ;
+                                    etype:GID "132"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_location_GID-132_Type-43544
+etype:has_location_GID-132_Type-43544 rdf:type owl:ObjectProperty ;
+                                      rdfs:subPropertyOf etype:relationalAttribute ;
+                                      rdfs:domain etype:Organization_GID-43544 ;
+                                      rdfs:range etype:Function_kind_GID-120019 ;
+                                      etype:GID "132"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_medical_care_GID-3414_Type-55936
+etype:has_medical_care_GID-3414_Type-55936 rdf:type owl:ObjectProperty ;
+                                           rdfs:subPropertyOf etype:relationalAttribute ;
+                                           rdfs:domain etype:Patient_GID-55936 ;
+                                           rdfs:range etype:Event_GID-138 ;
+                                           etype:GID "3414"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_middle_name_GID-34005_Type-117693
+etype:has_middle_name_GID-34005_Type-117693 rdf:type owl:ObjectProperty ;
+                                            rdfs:subPropertyOf etype:relationalAttribute ;
+                                            rdfs:domain etype:Person_name_GID-117693 ;
+                                            rdfs:range etype:NLString ;
+                                            etype:GID "34005"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-1
+etype:has_name_GID-2_Type-1 rdf:type owl:ObjectProperty ;
+                            rdfs:subPropertyOf etype:relationalAttribute ;
+                            rdfs:domain etype:Entity_GID-1 ;
+                            rdfs:range etype:Entity_GID-1 ;
+                            etype:GID "2"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-110379
+etype:has_name_GID-2_Type-110379 rdf:type owl:ObjectProperty ;
+                                 rdfs:subPropertyOf etype:relationalAttribute ;
+                                 rdfs:domain etype:Meet_GID-110379 ;
+                                 rdfs:range etype:Entity_GID-1 ;
+                                 etype:GID "2"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-2
+etype:has_name_GID-2_Type-2 rdf:type owl:ObjectProperty ;
+                            rdfs:subPropertyOf etype:relationalAttribute ;
+                            rdfs:domain etype:Name_GID-2 ;
+                            rdfs:range etype:NLString ;
+                            etype:GID "2"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_outline_GID-34682_Type-16921
+etype:has_outline_GID-34682_Type-16921 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Creation_GID-16921 ;
+                                       rdfs:range etype:SemanticString ;
+                                       etype:GID "34682"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_part_meronym_GID-22_Type-1
+etype:has_part_meronym_GID-22_Type-1 rdf:type owl:ObjectProperty ;
+                                     rdfs:subPropertyOf etype:relationalAttribute ;
+                                     rdfs:domain etype:Entity_GID-1 ;
+                                     rdfs:range etype:Entity_GID-1 ;
+                                     etype:GID "22"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_part_meronym_GID-22_Type-110379
+etype:has_part_meronym_GID-22_Type-110379 rdf:type owl:ObjectProperty ;
+                                          rdfs:subPropertyOf etype:relationalAttribute ;
+                                          rdfs:domain etype:Meet_GID-110379 ;
+                                          rdfs:range etype:Entity_GID-1 ;
+                                          etype:GID "22"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_part_meronym_GID-22_Type-55936
+etype:has_part_meronym_GID-22_Type-55936 rdf:type owl:ObjectProperty ;
+                                         rdfs:subPropertyOf etype:relationalAttribute ;
+                                         rdfs:domain etype:Patient_GID-55936 ;
+                                         rdfs:range etype:Entity_GID-1 ;
+                                         etype:GID "22"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_participant_GID-55912_Type-138
+etype:has_participant_GID-55912_Type-138 rdf:type owl:ObjectProperty ;
+                                         rdfs:subPropertyOf etype:relationalAttribute ;
+                                         rdfs:domain etype:Event_GID-138 ;
+                                         rdfs:range etype:Person_GID-118 ;
+                                         etype:GID "55912"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_phase_GID-81455_Type-138
+etype:has_phase_GID-81455_Type-138 rdf:type owl:ObjectProperty ;
+                                   rdfs:subPropertyOf etype:relationalAttribute ;
+                                   rdfs:domain etype:Event_GID-138 ;
+                                   rdfs:range etype:Entity_GID-1 ;
+                                   etype:GID "81455"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_place_of_death_GID-118225_Type-118
+etype:has_place_of_death_GID-118225_Type-118 rdf:type owl:ObjectProperty ;
+                                             rdfs:subPropertyOf etype:relationalAttribute ;
+                                             rdfs:domain etype:Person_GID-118 ;
+                                             rdfs:range etype:Location_GID-132 ;
+                                             etype:GID "118225"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_risk_GID-28081_Type-55936
+etype:has_risk_GID-28081_Type-55936 rdf:type owl:ObjectProperty ;
+                                    rdfs:subPropertyOf etype:relationalAttribute ;
+                                    rdfs:domain etype:Patient_GID-55936 ;
+                                    rdfs:range etype:Entity_GID-1 ;
+                                    etype:GID "28081"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_subject_GID-35361_Type-16921
+etype:has_subject_GID-35361_Type-16921 rdf:type owl:ObjectProperty ;
+                                       rdfs:subPropertyOf etype:relationalAttribute ;
+                                       rdfs:domain etype:Creation_GID-16921 ;
+                                       rdfs:range etype:SemanticString ;
+                                       etype:GID "35361"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_surname_GID-34003_Type-117693
+etype:has_surname_GID-34003_Type-117693 rdf:type owl:ObjectProperty ;
+                                        rdfs:subPropertyOf etype:relationalAttribute ;
+                                        rdfs:domain etype:Person_name_GID-117693 ;
+                                        rdfs:range etype:NLString ;
+                                        etype:GID "34003"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_time_GID-81346_Type-45663
+etype:has_time_GID-81346_Type-45663 rdf:type owl:ObjectProperty ;
+                                    rdfs:subPropertyOf etype:relationalAttribute ;
+                                    rdfs:domain etype:Metadata_GID-45663 ;
+                                    rdfs:range etype:Entity_GID-1 ;
+                                    etype:GID "81346"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_title_GID-34045_Type-16921
+etype:has_title_GID-34045_Type-16921 rdf:type owl:ObjectProperty ;
+                                     rdfs:subPropertyOf etype:relationalAttribute ;
+                                     rdfs:domain etype:Creation_GID-16921 ;
+                                     rdfs:range etype:NLString ;
+                                     etype:GID "34045"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#relationalAttribute
+etype:relationalAttribute rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#datatypeAttribute
+etype:datatypeAttribute rdf:type owl:DatatypeProperty .
+
+
+###  http://knowdive.disi.unitn.it/etype#hasLanguage
+etype:hasLanguage rdf:type owl:DatatypeProperty ;
+                  rdfs:domain etype:NLString ;
+                  rdfs:range xsd:language .
+
+
+###  http://knowdive.disi.unitn.it/etype#hasSourceString
+etype:hasSourceString rdf:type owl:DatatypeProperty ;
+                      rdfs:domain etype:SemanticString ;
+                      rdfs:range xsd:string .
+
+
+###  http://knowdive.disi.unitn.it/etype#hasString
+etype:hasString rdf:type owl:DatatypeProperty ;
+                rdfs:domain etype:NLString ;
+                rdfs:range xsd:string .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_action_property_GID-120036_Type-120018
+etype:has_action_property_GID-120036_Type-120018 rdf:type owl:DatatypeProperty ;
+                                                 rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                 rdfs:domain etype:Action_kind_GID-120018 ;
+                                                 rdfs:range etype:concept ;
+                                                 etype:GID "120036"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_address_GID-36367_Type-55936
+etype:has_address_GID-36367_Type-55936 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "36367"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_beginning_GID-81324_Type-81213
+etype:has_beginning_GID-81324_Type-81213 rdf:type owl:DatatypeProperty ;
+                                         rdfs:subPropertyOf etype:datatypeAttribute ;
+                                         rdfs:domain etype:Moment_GID-81213 ;
+                                         rdfs:range xsd:dateTime ;
+                                         etype:GID "81324"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_biological_property_GID-120034_Type-120021
+etype:has_biological_property_GID-120034_Type-120021 rdf:type owl:DatatypeProperty ;
+                                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                     rdfs:domain etype:Living_being_GID-120021 ;
+                                                     rdfs:range etype:concept ;
+                                                     etype:GID "120034"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_birthday_GID-81257_Type-55936
+etype:has_birthday_GID-81257_Type-55936 rdf:type owl:DatatypeProperty ;
+                                        rdfs:subPropertyOf etype:datatypeAttribute ;
+                                        rdfs:domain etype:Patient_GID-55936 ;
+                                        rdfs:range xsd:dateTime ;
+                                        etype:GID "81257"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-55936
+etype:has_city_GID-45969_Type-55936 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Patient_GID-55936 ;
+                                    rdfs:range xsd:string ;
+                                    etype:GID "45969"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1
+etype:has_class_GID-43482_Type-1 rdf:type owl:DatatypeProperty ;
+                                 rdfs:subPropertyOf etype:datatypeAttribute ;
+                                 rdfs:domain etype:Entity_GID-1 ;
+                                 rdfs:range etype:concept ;
+                                 etype:GID "43482"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-110379
+etype:has_class_GID-43482_Type-110379 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Meet_GID-110379 ;
+                                      rdfs:range etype:concept ;
+                                      etype:GID "43482"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-55936
+etype:has_class_GID-43482_Type-55936 rdf:type owl:DatatypeProperty ;
+                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                     rdfs:domain etype:Patient_GID-55936 ;
+                                     rdfs:range etype:concept ;
+                                     etype:GID "43482"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_code_GID-34101_Type-77328
+etype:has_code_GID-34101_Type-77328 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Condition_GID-77328 ;
+                                    rdfs:range xsd:string ;
+                                    etype:GID "34101"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_condition_GID-74023_Type-77328
+etype:has_condition_GID-74023_Type-77328 rdf:type owl:DatatypeProperty ;
+                                         rdfs:subPropertyOf etype:datatypeAttribute ;
+                                         rdfs:domain etype:Condition_GID-77328 ;
+                                         rdfs:range xsd:boolean ;
+                                         etype:GID "74023"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_context_property_GID-120032_Type-120016
+etype:has_context_property_GID-120032_Type-120016 rdf:type owl:DatatypeProperty ;
+                                                  rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                  rdfs:domain etype:Context_GID-120016 ;
+                                                  rdfs:range etype:concept ;
+                                                  etype:GID "120032"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_country_GID-46010_Type-55936
+etype:has_country_GID-46010_Type-55936 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "46010"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-110379
+etype:has_date_GID-80737_Type-110379 rdf:type owl:DatatypeProperty ;
+                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                     rdfs:domain etype:Meet_GID-110379 ;
+                                     rdfs:range xsd:dateTime ;
+                                     etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-31728
+etype:has_date_GID-80737_Type-31728 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Observation_GID-31728 ;
+                                    rdfs:range xsd:dateTime ;
+                                    etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-4274
+etype:has_date_GID-80737_Type-4274 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Immunization_GID-4274 ;
+                                   rdfs:range xsd:dateTime ;
+                                   etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-5269
+etype:has_date_GID-80737_Type-5269 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Medical_procedure_GID-5269 ;
+                                   rdfs:range xsd:dateTime ;
+                                   etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-55936
+etype:has_date_GID-80737_Type-55936 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Patient_GID-55936 ;
+                                    rdfs:range xsd:dateTime ;
+                                    etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-77258
+etype:has_date_GID-80737_Type-77258 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Allergy_GID-77258 ;
+                                    rdfs:range xsd:dateTime ;
+                                    etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_date_GID-80737_Type-77328
+etype:has_date_GID-80737_Type-77328 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Condition_GID-77328 ;
+                                    rdfs:range xsd:dateTime ;
+                                    etype:GID "80737"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_direction_GID-36365_Type-3440
+etype:has_direction_GID-36365_Type-3440 rdf:type owl:DatatypeProperty ;
+                                        rdfs:subPropertyOf etype:datatypeAttribute ;
+                                        rdfs:domain etype:Medication_GID-3440 ;
+                                        rdfs:range xsd:string ;
+                                        etype:GID "36365"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_electronic_mail_GID-33745_Type-118
+etype:has_electronic_mail_GID-33745_Type-118 rdf:type owl:DatatypeProperty ;
+                                             rdfs:subPropertyOf etype:datatypeAttribute ;
+                                             rdfs:domain etype:Person_GID-118 ;
+                                             rdfs:range xsd:string ;
+                                             etype:GID "33745"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_elevation_GID-28270_Type-132
+etype:has_elevation_GID-28270_Type-132 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Location_GID-132 ;
+                                       rdfs:range xsd:float ;
+                                       etype:GID "28270"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_end_GID-81330_Type-81213
+etype:has_end_GID-81330_Type-81213 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Moment_GID-81213 ;
+                                   rdfs:range xsd:dateTime ;
+                                   etype:GID "81330"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_format_GID-35579_Type-34892
+etype:has_format_GID-35579_Type-34892 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Computer_file_GID-34892 ;
+                                      rdfs:range xsd:string ;
+                                      etype:GID "35579"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_function_property_GID-120037_Type-120019
+etype:has_function_property_GID-120037_Type-120019 rdf:type owl:DatatypeProperty ;
+                                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                   rdfs:domain etype:Function_kind_GID-120019 ;
+                                                   rdfs:range etype:concept ;
+                                                   etype:GID "120037"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_home_page_GID-34125_Type-34892
+etype:has_home_page_GID-34125_Type-34892 rdf:type owl:DatatypeProperty ;
+                                         rdfs:subPropertyOf etype:datatypeAttribute ;
+                                         rdfs:domain etype:Computer_file_GID-34892 ;
+                                         rdfs:range xsd:string ;
+                                         etype:GID "34125"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-1
+etype:has_identifier_GID-39085_Type-1 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Entity_GID-1 ;
+                                      rdfs:range xsd:string ;
+                                      etype:GID "39085"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-110379
+etype:has_identifier_GID-39085_Type-110379 rdf:type owl:DatatypeProperty ;
+                                           rdfs:subPropertyOf etype:datatypeAttribute ;
+                                           rdfs:domain etype:Meet_GID-110379 ;
+                                           rdfs:range xsd:string ;
+                                           etype:GID "39085"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-55936
+etype:has_identifier_GID-39085_Type-55936 rdf:type owl:DatatypeProperty ;
+                                          rdfs:subPropertyOf etype:datatypeAttribute ;
+                                          rdfs:domain etype:Patient_GID-55936 ;
+                                          rdfs:range xsd:string ;
+                                          etype:GID "39085"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_kind_GID-31829_Type-31728
+etype:has_kind_GID-31829_Type-31728 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Observation_GID-31728 ;
+                                    rdfs:range xsd:string ;
+                                    etype:GID "31829"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_language_GID-33764_Type-55936
+etype:has_language_GID-33764_Type-55936 rdf:type owl:DatatypeProperty ;
+                                        rdfs:subPropertyOf etype:datatypeAttribute ;
+                                        rdfs:domain etype:Patient_GID-55936 ;
+                                        rdfs:range xsd:string ;
+                                        etype:GID "33764"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-132
+etype:has_latitude_GID-46263_Type-132 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Location_GID-132 ;
+                                      rdfs:range xsd:float ;
+                                      etype:GID "46263"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_license_GID-35108_Type-34892
+etype:has_license_GID-35108_Type-34892 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Computer_file_GID-34892 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "35108"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-132
+etype:has_longitude_GID-46270_Type-132 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Location_GID-132 ;
+                                       rdfs:range xsd:float ;
+                                       etype:GID "46270"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_maximum_GID-73238_Type-80582
+etype:has_maximum_GID-73238_Type-80582 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Duration_GID-80582 ;
+                                       rdfs:range xsd:long ;
+                                       etype:GID "73238"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_measure_GID-146_Type-31728
+etype:has_measure_GID-146_Type-31728 rdf:type owl:DatatypeProperty ;
+                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                     rdfs:domain etype:Observation_GID-31728 ;
+                                     rdfs:range xsd:float ;
+                                     etype:GID "146"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_measure_GID-146_Type-3440
+etype:has_measure_GID-146_Type-3440 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Medication_GID-3440 ;
+                                    rdfs:range xsd:float ;
+                                    etype:GID "146"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_minimum_GID-73141_Type-80582
+etype:has_minimum_GID-73141_Type-80582 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Duration_GID-80582 ;
+                                       rdfs:range xsd:long ;
+                                       etype:GID "73141"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_name_GID-104900_Type-3440
+etype:has_name_GID-104900_Type-3440 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Medication_GID-3440 ;
+                                    rdfs:range xsd:string ;
+                                    etype:GID "104900"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_name_GID-104900_Type-77258
+etype:has_name_GID-104900_Type-77258 rdf:type owl:DatatypeProperty ;
+                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                     rdfs:domain etype:Allergy_GID-77258 ;
+                                     rdfs:range xsd:string ;
+                                     etype:GID "104900"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-55936
+etype:has_name_GID-2_Type-55936 rdf:type owl:DatatypeProperty ;
+                                rdfs:subPropertyOf etype:datatypeAttribute ;
+                                rdfs:domain etype:Patient_GID-55936 ;
+                                rdfs:range xsd:string ;
+                                etype:GID "2"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_object_property_GID-120033_Type-120017
+etype:has_object_property_GID-120033_Type-120017 rdf:type owl:DatatypeProperty ;
+                                                 rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                 rdfs:domain etype:Real_kind_GID-120017 ;
+                                                 rdfs:range etype:concept ;
+                                                 etype:GID "120033"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_operation_GID-2966_Type-5269
+etype:has_operation_GID-2966_Type-5269 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Medical_procedure_GID-5269 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "2966"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_reason_GID-31730_Type-5269
+etype:has_reason_GID-31730_Type-5269 rdf:type owl:DatatypeProperty ;
+                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                     rdfs:domain etype:Medical_procedure_GID-5269 ;
+                                     rdfs:range xsd:string ;
+                                     etype:GID "31730"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_reason_GID-36131_Type-110379
+etype:has_reason_GID-36131_Type-110379 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Meet_GID-110379 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "36131"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_sex_GID-27646_Type-55936
+etype:has_sex_GID-27646_Type-55936 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Patient_GID-55936 ;
+                                   rdfs:range xsd:string ;
+                                   etype:GID "27646"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_size_GID-28114_Type-34892
+etype:has_size_GID-28114_Type-34892 rdf:type owl:DatatypeProperty ;
+                                    rdfs:subPropertyOf etype:datatypeAttribute ;
+                                    rdfs:domain etype:Computer_file_GID-34892 ;
+                                    rdfs:range xsd:long ;
+                                    etype:GID "28114"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_source_GID-35781_Type-55936
+etype:has_source_GID-35781_Type-55936 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Patient_GID-55936 ;
+                                      rdfs:range xsd:string ;
+                                      etype:GID "35781"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_state_GID-130_Type-77258
+etype:has_state_GID-130_Type-77258 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Allergy_GID-77258 ;
+                                   rdfs:range xsd:string ;
+                                   etype:GID "130"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_state_GID-46567_Type-55936
+etype:has_state_GID-46567_Type-55936 rdf:type owl:DatatypeProperty ;
+                                     rdfs:subPropertyOf etype:datatypeAttribute ;
+                                     rdfs:domain etype:Patient_GID-55936 ;
+                                     rdfs:range xsd:string ;
+                                     etype:GID "46567"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_surname_GID-34003_Type-55936
+etype:has_surname_GID-34003_Type-55936 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Patient_GID-55936 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "34003"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_title_GID-34019_Type-117693
+etype:has_title_GID-34019_Type-117693 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Person_name_GID-117693 ;
+                                      rdfs:range etype:concept ;
+                                      etype:GID "34019"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_type_GID-103418_Type-110379
+etype:has_type_GID-103418_Type-110379 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Meet_GID-110379 ;
+                                      rdfs:range xsd:string ;
+                                      etype:GID "103418"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_unit_of_measurement_GID-72050_Type-31728
+etype:has_unit_of_measurement_GID-72050_Type-31728 rdf:type owl:DatatypeProperty ;
+                                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                   rdfs:domain etype:Observation_GID-31728 ;
+                                                   rdfs:range xsd:string ;
+                                                   etype:GID "72050"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_unit_of_measurement_GID-72050_Type-3440
+etype:has_unit_of_measurement_GID-72050_Type-3440 rdf:type owl:DatatypeProperty ;
+                                                  rdfs:subPropertyOf etype:datatypeAttribute ;
+                                                  rdfs:domain etype:Medication_GID-3440 ;
+                                                  rdfs:range xsd:string ;
+                                                  etype:GID "72050"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_url_GID-34123_Type-34892
+etype:has_url_GID-34123_Type-34892 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Computer_file_GID-34892 ;
+                                   rdfs:range xsd:string ;
+                                   etype:GID "34123"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_url_GID-34123_Type-55936
+etype:has_url_GID-34123_Type-55936 rdf:type owl:DatatypeProperty ;
+                                   rdfs:subPropertyOf etype:datatypeAttribute ;
+                                   rdfs:domain etype:Patient_GID-55936 ;
+                                   rdfs:range xsd:string ;
+                                   etype:GID "34123"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_vaccine_GID-25107_Type-4274
+etype:has_vaccine_GID-25107_Type-4274 rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf etype:datatypeAttribute ;
+                                      rdfs:domain etype:Immunization_GID-4274 ;
+                                      rdfs:range xsd:string ;
+                                      etype:GID "25107"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_veracity_GID-26929_Type-45663
+etype:has_veracity_GID-26929_Type-45663 rdf:type owl:DatatypeProperty ;
+                                        rdfs:subPropertyOf etype:datatypeAttribute ;
+                                        rdfs:domain etype:Metadata_GID-45663 ;
+                                        rdfs:range xsd:float ;
+                                        etype:GID "26929"^^xsd:long .
+
+
+###  http://knowdive.disi.unitn.it/etype#has_version_GID-31836_Type-34892
+etype:has_version_GID-31836_Type-34892 rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf etype:datatypeAttribute ;
+                                       rdfs:domain etype:Computer_file_GID-34892 ;
+                                       rdfs:range xsd:string ;
+                                       etype:GID "31836"^^xsd:long .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#Action_kind_GID-120018
+etype:Action_kind_GID-120018 rdf:type owl:Class ;
+                             rdfs:subClassOf etype:Entity_GID-1 ;
+                             etype:GID "120018"^^xsd:long ;
+                             etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Allergy_GID-77258
+etype:Allergy_GID-77258 rdf:type owl:Class ;
+                        rdfs:subClassOf etype:Entity_GID-1 ;
+                        etype:GID "77258"^^xsd:long ;
+                        etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#ComplexType
+etype:ComplexType rdf:type owl:Class .
+
+
+###  http://knowdive.disi.unitn.it/etype#Computer_file_GID-34892
+etype:Computer_file_GID-34892 rdf:type owl:Class ;
+                              rdfs:subClassOf etype:Function_kind_GID-120019 ;
+                              etype:GID "34892"^^xsd:long ;
+                              etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Condition_GID-77328
+etype:Condition_GID-77328 rdf:type owl:Class ;
+                          rdfs:subClassOf etype:Entity_GID-1 ;
+                          etype:GID "77328"^^xsd:long ;
+                          etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Context_GID-120016
+etype:Context_GID-120016 rdf:type owl:Class ;
+                         rdfs:subClassOf etype:Entity_GID-1 ;
+                         etype:GID "120016"^^xsd:long ;
+                         etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Creation_GID-16921
+etype:Creation_GID-16921 rdf:type owl:Class ;
+                         rdfs:subClassOf etype:Function_kind_GID-120019 ;
+                         etype:GID "16921"^^xsd:long ;
+                         etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Duration_GID-80582
+etype:Duration_GID-80582 rdf:type owl:Class ;
+                         rdfs:subClassOf etype:ComplexType ;
+                         etype:GID "80582"^^xsd:long ;
+                         etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Entity_GID-1
+etype:Entity_GID-1 rdf:type owl:Class ;
+                   rdfs:subClassOf etype:ComplexType ;
+                   etype:GID "1"^^xsd:long ;
+                   etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Event_GID-138
+etype:Event_GID-138 rdf:type owl:Class ;
+                    rdfs:subClassOf etype:Context_GID-120016 .
+
+
+###  http://knowdive.disi.unitn.it/etype#Function_kind_GID-120019
+etype:Function_kind_GID-120019 rdf:type owl:Class ;
+                               rdfs:subClassOf etype:Entity_GID-1 ;
+                               etype:GID "120019"^^xsd:long ;
+                               etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#IdentifyingSet
+etype:IdentifyingSet rdf:type owl:Class .
+
+
+###  http://knowdive.disi.unitn.it/etype#Immunization_GID-4274
+etype:Immunization_GID-4274 rdf:type owl:Class ;
+                            rdfs:subClassOf etype:Event_GID-138 ;
+                            etype:GID "4274"^^xsd:long ;
+                            etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Living_being_GID-120021
+etype:Living_being_GID-120021 rdf:type owl:Class ;
+                              rdfs:subClassOf etype:Real_kind_GID-120017 ;
+                              etype:GID "120021"^^xsd:long ;
+                              etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Location_GID-132
+etype:Location_GID-132 rdf:type owl:Class ;
+                       rdfs:subClassOf etype:Function_kind_GID-120019 .
+
+
+###  http://knowdive.disi.unitn.it/etype#Medical_procedure_GID-5269
+etype:Medical_procedure_GID-5269 rdf:type owl:Class ;
+                                 rdfs:subClassOf etype:Event_GID-138 ;
+                                 etype:GID "5269"^^xsd:long ;
+                                 etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Medication_GID-3440
+etype:Medication_GID-3440 rdf:type owl:Class ;
+                          rdfs:subClassOf etype:Event_GID-138 ;
+                          etype:GID "3440"^^xsd:long ;
+                          etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Meet_GID-110379
+etype:Meet_GID-110379 rdf:type owl:Class ;
+                      rdfs:subClassOf etype:ComplexType ;
+                      etype:GID "110379"^^xsd:long ;
+                      etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Metadata_GID-45663
+etype:Metadata_GID-45663 rdf:type owl:Class ;
+                         rdfs:subClassOf etype:ComplexType ;
+                         etype:GID "45663"^^xsd:long ;
+                         etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Moment_GID-81213
+etype:Moment_GID-81213 rdf:type owl:Class ;
+                       rdfs:subClassOf etype:ComplexType ;
+                       etype:GID "81213"^^xsd:long ;
+                       etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#NLString
+etype:NLString rdf:type owl:Class ;
+               rdfs:subClassOf etype:ComplexType .
+
+
+###  http://knowdive.disi.unitn.it/etype#Name_GID-2
+etype:Name_GID-2 rdf:type owl:Class ;
+                 rdfs:subClassOf etype:ComplexType ;
+                 etype:GID "2"^^xsd:long ;
+                 etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Observation_GID-31728
+etype:Observation_GID-31728 rdf:type owl:Class ;
+                            rdfs:subClassOf etype:Entity_GID-1 ;
+                            etype:GID "31728"^^xsd:long ;
+                            etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Organization_GID-43544
+etype:Organization_GID-43544 rdf:type owl:Class ;
+                             rdfs:subClassOf etype:Function_kind_GID-120019 .
+
+
+###  http://knowdive.disi.unitn.it/etype#Patient_GID-55936
+etype:Patient_GID-55936 rdf:type owl:Class ;
+                        rdfs:subClassOf etype:ComplexType ;
+                        etype:GID "55936"^^xsd:long ;
+                        etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Person_GID-118
+etype:Person_GID-118 rdf:type owl:Class ;
+                     rdfs:subClassOf etype:Living_being_GID-120021 .
+
+
+###  http://knowdive.disi.unitn.it/etype#Person_name_GID-117693
+etype:Person_name_GID-117693 rdf:type owl:Class ;
+                             rdfs:subClassOf etype:Name_GID-2 ;
+                             etype:GID "117693"^^xsd:long ;
+                             etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#Real_kind_GID-120017
+etype:Real_kind_GID-120017 rdf:type owl:Class ;
+                           rdfs:subClassOf etype:Entity_GID-1 ;
+                           etype:GID "120017"^^xsd:long ;
+                           etype:isEtype "true"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#SemanticString
+etype:SemanticString rdf:type owl:Class ;
+                     rdfs:subClassOf etype:ComplexType .
+
+
+###  http://knowdive.disi.unitn.it/etype#Structure_GID-24069
+etype:Structure_GID-24069 rdf:type owl:Class ;
+                          rdfs:subClassOf etype:ComplexType ;
+                          etype:GID "24069"^^xsd:long ;
+                          etype:isEtype "false"^^xsd:boolean .
+
+
+###  http://knowdive.disi.unitn.it/etype#concept
+etype:concept rdf:type owl:Class ;
+              rdfs:subClassOf xsd:long .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#Event_GID-138
+etype:Event_GID-138 rdf:type owl:NamedIndividual ;
+                    etype:hasIdentifyingSet etype:IdentifyingSet_IS1-104 .
+
+
+###  http://knowdive.disi.unitn.it/etype#IdentifyingSet_IS1-102
+etype:IdentifyingSet_IS1-102 rdf:type owl:NamedIndividual ,
+                                      etype:Person_GID-118 ;
+                             etype:hasIdProperty "Class_GID-43482" ,
+                                                 "Electronic_mail_GID-33745" ,
+                                                 "Name_GID-2" .
+
+
+###  http://knowdive.disi.unitn.it/etype#IdentifyingSet_IS1-103
+etype:IdentifyingSet_IS1-103 rdf:type owl:NamedIndividual ,
+                                      etype:Location_GID-132 ;
+                             etype:hasIdProperty "Class_GID-43482" ,
+                                                 "Latitude_GID-46263" ,
+                                                 "Longitude_GID-46270" ,
+                                                 "Name_GID-2" ,
+                                                 "Part_meronym_GID-22" .
+
+
+###  http://knowdive.disi.unitn.it/etype#IdentifyingSet_IS1-104
+etype:IdentifyingSet_IS1-104 rdf:type owl:NamedIndividual ,
+                                      etype:Event_GID-138 ;
+                             etype:hasIdProperty "Beginning_GID-81324" ,
+                                                 "Class_GID-43482" ,
+                                                 "End_GID-81330" ,
+                                                 "Name_GID-2" .
+
+
+###  http://knowdive.disi.unitn.it/etype#IdentifyingSet_IS1-105
+etype:IdentifyingSet_IS1-105 rdf:type owl:NamedIndividual ,
+                                      etype:Organization_GID-43544 ;
+                             etype:hasIdProperty "Class_GID-43482" ,
+                                                 "Location_GID-132" ,
+                                                 "Name_GID-2" .
+
+
+###  http://knowdive.disi.unitn.it/etype#Location_GID-132
+etype:Location_GID-132 rdf:type owl:NamedIndividual ;
+                       etype:hasIdentifyingSet etype:IdentifyingSet_IS1-103 .
+
+
+###  http://knowdive.disi.unitn.it/etype#Organization_GID-43544
+etype:Organization_GID-43544 rdf:type owl:NamedIndividual ;
+                             etype:hasIdentifyingSet etype:IdentifyingSet_IS1-105 .
+
+
+###  http://knowdive.disi.unitn.it/etype#Person_GID-118
+etype:Person_GID-118 rdf:type owl:NamedIndividual ;
+                     etype:hasIdentifyingSet etype:IdentifyingSet_IS1-102 .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+etype:Event_GID-138 etype:GID "138"^^xsd:long ;
+                    etype:isEtype "true"^^xsd:boolean .
+
+
+etype:Location_GID-132 etype:isEtype "true"^^xsd:boolean ;
+                       etype:GID "132"^^xsd:long .
+
+
+etype:Organization_GID-43544 etype:isEtype "true"^^xsd:boolean ;
+                             etype:GID "43544"^^xsd:long .
+
+
+etype:Person_GID-118 etype:GID "118"^^xsd:long ;
+                     etype:isEtype "true"^^xsd:boolean .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

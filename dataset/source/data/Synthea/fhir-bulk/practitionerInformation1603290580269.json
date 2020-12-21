@@ -1,0 +1,114 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:9090eb27-6340-3ce8-8d0d-ba7ef714bb24",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "9090eb27-6340-3ce8-8d0d-ba7ef714bb24",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 19
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "9999999729"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Borer986",
+            "given": [
+              "Berry486"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Berry486.Borer986@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "585 LEBANON STREET"
+            ],
+            "city": "MELROSE",
+            "state": "MA",
+            "postalCode": "02176",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b01a4d16-970e-3d14-bade-ef5b031b025c",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "b01a4d16-970e-3d14-bade-ef5b031b025c",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 42
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "9999952709"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Reichert620",
+            "given": [
+              "Onie555"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Onie555.Reichert620@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "159 SQUARE ONE MALL"
+            ],
+            "city": "SAUGUS",
+            "state": "MA",
+            "postalCode": "01906-4181",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    }
+  ]
+}
